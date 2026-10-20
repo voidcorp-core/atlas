@@ -1,6 +1,6 @@
 # Atlas Registry
 
-[![Registry CI](https://github.com/atlas-registry/atlas/actions/workflows/lint-json.yml/badge.svg)](https://github.com/atlas-registry/atlas/actions/workflows/lint-json.yml)
+[![Registry CI](https://github.com/voidcorp-core/atlas/actions/workflows/lint-json.yml/badge.svg)](https://github.com/voidcorp-core/atlas/actions/workflows/lint-json.yml)
 [![Locales](https://img.shields.io/badge/locales-fr%20%7C%20en-blue)](#the-bilingual-guarantee)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
@@ -74,8 +74,8 @@ bounded by construction rather than by convention.
 The artifacts are served directly over `raw.githubusercontent.com`:
 
 ```
-https://raw.githubusercontent.com/atlas-registry/atlas/refs/heads/main/prompts.fr.json
-https://raw.githubusercontent.com/atlas-registry/atlas/refs/heads/main/cartographies.en.json
+https://raw.githubusercontent.com/voidcorp-core/atlas/refs/heads/main/prompts.fr.json
+https://raw.githubusercontent.com/voidcorp-core/atlas/refs/heads/main/cartographies.en.json
 ```
 
 Available resources: `prompts`, `cartographies`, `guides`, `tools`, `labels` - each in `.fr.json`
