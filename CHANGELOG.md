@@ -2,6 +2,14 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
+## [3.0.1](https://github.com/voidcorp-core/atlas/compare/v3.0.0...v3.0.1) (2026-10-21)
+
+
+### Documentation
+
+* pointer le README vers voidcorp-core/atlas ([74f42c3](https://github.com/voidcorp-core/atlas/commit/74f42c356c683eb537f32aee8f399dd894675702))
+* pointer le README vers voidcorp-core/atlas ([a281e62](https://github.com/voidcorp-core/atlas/commit/a281e6254183129c9bf8c1c09ee6c6eb362588d6))
+
 ## [3.0.0](https://github.com/atlas-registry/atlas/compare/v2.1.0...v3.0.0) (2026-08-28)
 
 
