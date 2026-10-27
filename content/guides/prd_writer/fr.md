@@ -1,49 +1,49 @@
 ---
-title: Rediger un PRD clair et actionnable
-description: Le guide pour ecrire des Product Requirements Documents qui eliminent l'ambiguite entre product et dev.
+title: Rédiger un PRD clair et actionnable
+description: Le guide pour écrire des Product Requirements Documents qui éliminent l'ambiguïté entre product et dev.
 ---
 
-# Rediger un PRD clair et actionnable
+# Rédiger un PRD clair et actionnable
 
-Un PRD (Product Requirements Document) est le contrat entre le product manager et l'equipe de developpement. Quand le PRD est flou, les devs interpretent. Quand les devs interpretent, le produit livre ne correspond pas a la vision.
+Un PRD (Product Requirements Document) est le contrat entre le product manager et l'équipe de développement. Quand le PRD est flou, les devs interprètent. Quand les devs interprètent, le produit livré ne correspond pas à la vision.
 
-Un bon PRD ne laisse pas de place a l'interpretation sur le "quoi", tout en laissant de la liberte sur le "comment".
+Un bon PRD ne laisse pas de place à l'interprétation sur le "quoi", tout en laissant de la liberté sur le "comment".
 
 ## Pourquoi c'est important
 
-Sans PRD, chaque fonctionnalite est une negociation en temps reel. Les specs changent en cours de sprint, les developpeurs decouvrent des cas limites non prevus, et tout le monde perd du temps. Le PRD est un investissement de 2-3 heures qui en economise 20.
+Sans PRD, chaque fonctionnalité est une négociation en temps réel. Les specs changent en cours de sprint, les développeurs découvrent des cas limites non prévus, et tout le monde perd du temps. Le PRD est un investissement de 2-3 heures qui en économise 20.
 
 ## Le processus
 
-### Etape 1 -- Definir le probleme
+### Étape 1 -- Définir le problème
 
-Avant de decrire la solution, ecris clairement le probleme utilisateur que tu resous. Inclus : qui est concerne, quelle est la douleur, quelle est la frequence, quel est l'impact. Si tu ne peux pas articuler le probleme, tu n'es pas pret a ecrire un PRD.
+Avant de décrire la solution, écris clairement le problème utilisateur que tu résous. Inclus : qui est concerné, quelle est la douleur, quelle est la fréquence, quel est l'impact. Si tu ne peux pas articuler le problème, tu n'es pas prêt à écrire un PRD.
 
-### Etape 2 -- Ecrire les user stories
+### Étape 2 -- Écrire les user stories
 
-Format standard : "En tant que [persona], je veux [action] afin de [benefice]". Chaque user story doit etre independante, testable et priorisee (must-have, should-have, nice-to-have).
+Format standard : "En tant que [persona], je veux [action] afin de [bénéfice]". Chaque user story doit être indépendante, testable et priorisée (must-have, should-have, nice-to-have).
 
-### Etape 3 -- Definir les criteres d'acceptation
+### Étape 3 -- Définir les critères d'acceptation
 
-Pour chaque user story, ecris les conditions precises qui determinent si la fonctionnalite est correctement implementee. Format : "Etant donne [contexte], quand [action], alors [resultat attendu]". C'est la partie la plus importante du PRD.
+Pour chaque user story, écris les conditions précises qui déterminent si la fonctionnalité est correctement implémentée. Format : "Étant donné [contexte], quand [action], alors [résultat attendu]". C'est la partie la plus importante du PRD.
 
-### Etape 4 -- Documenter les cas limites
+### Étape 4 -- Documenter les cas limites
 
-Que se passe-t-il si l'utilisateur a un champ vide ? Si la connexion tombe ? Si les donnees depassent la limite ? Les cas limites non documentes deviennent des bugs en production.
+Que se passe-t-il si l'utilisateur a un champ vide ? Si la connexion tombe ? Si les données dépassent la limite ? Les cas limites non documentés deviennent des bugs en production.
 
 ## Erreurs courantes
 
-- PRD trop vague : "le systeme doit etre rapide" n'est pas une spec. "Le temps de chargement doit etre inferieur a 2 secondes" en est une
-- PRD trop detaille sur le "comment" : ne prescris pas l'architecture technique, laisse les devs decider de l'implementation
-- Pas de criteres d'acceptation : sans CA, impossible de savoir si la feature est "finie"
-- PRD ecrit sans consulter les devs : implique l'equipe technique en amont pour identifier les contraintes
+- PRD trop vague : "le système doit être rapide" n'est pas une spec. "Le temps de chargement doit être inférieur à 2 secondes" en est une
+- PRD trop détaillé sur le "comment" : ne prescris pas l'architecture technique, laisse les devs décider de l'implémentation
+- Pas de critères d'acceptation : sans CA, impossible de savoir si la feature est "finie"
+- PRD écrit sans consulter les devs : implique l'équipe technique en amont pour identifier les contraintes
 
 ## Aller plus loin
 
-Utilise le prompt Atlas dedie pour generer un PRD structure et complet :
+Utilise le prompt Atlas dédié pour générer un PRD structuré et complet :
 
 [PRD Writer](/prompts/prd_writer)
 
 ---
 
-*Ce guide fait partie de la serie Dev Builder sur Atlas.*
+*Ce guide fait partie de la série Dev Builder sur Atlas.*

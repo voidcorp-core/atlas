@@ -28,7 +28,7 @@ If you recognize yourself in one of these cases, that is normal. Everyone goes t
 
 ## 2. The 3 Rules That Change Everything
 
-After analyzing hundreds of posts that perform (not from LinkedIn influencers -- from real experts), three patterns come up systematically.
+Three writing principles can help make a post clearer. Use them to review your text, not to guarantee its reach.
 
 ### Rule 1: 1 Post = 1 Idea
 
@@ -39,11 +39,11 @@ Exercise: before writing, complete this sentence:
 
 If your sentence contains an "and", you have two posts.
 
-### Rule 2: The Hook Decides Everything
+### Rule 2: Make the Opening Useful
 
-On mobile, only the first 2 lines are visible. The rest is hidden behind "see more". If your hook does not create tension, nobody clicks.
+The visible part of a post varies by screen and format. Put the idea or situation that makes it worth reading near the beginning, without promising more than the text supports.
 
-What works:
+Fictional examples of opening forms, to use only when you can substantiate the facts:
 - An unexpected number: "I lost 26 hours last year. On a single task."
 - A contradiction: "The best investment of 2024? Deleting half my tools."
 - A provocative question: "Why do freelancers at 800 EUR/day work more than those at 400 EUR?"
@@ -56,13 +56,13 @@ What does not work:
 
 ### Rule 3: Write Like You Talk
 
-Corporate tone is dead on LinkedIn. Posts that perform today have a conversational, direct, personal tone.
+Choose a tone you could use in a real conversation with the people you want to reach. A personal voice does not guarantee distribution; it helps you remain consistent with what you mean.
 
 Simple test: read your post out loud. If it sounds like a press release, rewrite it.
 
 ## 3. The 5 Formats That Work
 
-No need to reinvent the wheel with every post. These 5 formats cover 90% of situations.
+These five formats are starting points. Choose the one that serves your material instead of forcing an idea into a structure.
 
 ### Storytelling
 You tell a lived moment. Situation, problem, turning point, lesson.
@@ -91,12 +91,12 @@ Trap to avoid: a framework that is too abstract. Each step must be executable.
 
 ## 4. The Concrete Process: From Idea to Post
 
-Here is the 4-step process I use. Total time: 15-25 minutes per post.
+Here is a four-step process to adapt. Measure how long it takes you before choosing a publishing rhythm.
 
-**Step 1 -- Capture (2 min)**
+**Step 1 -- Capture**
 Keep a note (Notion, Apple Notes, whatever) where you dump your raw ideas throughout the day. A lesson learned, a frustration, a number, a memorable conversation. Do not filter, accumulate.
 
-**Step 2 -- Choose the Angle (3 min)**
+**Step 2 -- Choose the Angle**
 Take a raw idea and ask yourself: what emotion do I want to trigger?
 - Identification ("that is exactly my problem")
 - Curiosity ("I want to know the rest")
@@ -105,7 +105,7 @@ Take a raw idea and ask yourself: what emotion do I want to trigger?
 
 The emotion decides the format. Identification -> Storytelling. Curiosity -> Concrete case. Surprise -> Opinion. Etc.
 
-**Step 3 -- Write with AI (10-15 min)**
+**Step 3 -- Write with AI**
 This is where the "LinkedIn Forge" prompt comes in. Give your raw idea, choose among the 3 suggested angles, then iterate with the shortcuts.
 
 -> [Access the LinkedIn Forge prompt](/prompts/linkedin_post_forge)
@@ -117,18 +117,18 @@ Typical workflow:
 4. You type "Hook" if the hook is weak, "Spice" if it is too safe, "Short" if it is too long
 5. You customize the final details (your experience, your numbers, your voice)
 
-**Step 4 -- The Read-Aloud Test (2 min)**
+**Step 4 -- The Read-Aloud Test**
 Read your post out loud. If a sentence sounds fake or forced, cut it. If you would not say it to a friend over coffee, it has no place in your post.
 
 ## 5. The Rhythm That Builds (Without Burning Out)
 
-Publishing every day for 2 weeks then disappearing for 3 months is worse than not publishing at all.
+Choose a rhythm compatible with your work and the material you actually have to share.
 
-Minimum viable rhythm: **2 posts per week**. Enough to stay visible, not enough to drain you.
+One possible starting point: one post a week, followed by a review after a few posts. This is neither a minimum for visibility nor a promise of results.
 
-Recommended rhythm: **3 posts per week** (Tuesday, Thursday, Saturday morning). Saturday morning is underused on LinkedIn -- less competition, good engagement.
+Test days and times with your own audience instead of applying a supposedly optimal slot. Compare the quality of conversations, not just impressions.
 
-If you are just starting, begin with 1 post/week for 4 weeks. The goal: build the habit, not chase performance.
+Increase frequency only while preserving the quality of examples, evidence and replies to readers.
 
 ## 6. The Metrics That Matter (and Those That Lie)
 
@@ -140,18 +140,18 @@ If you are just starting, begin with 1 post/week for 4 weeks. The goal: build th
 
 **Misleading metrics:**
 - Raw view count -- a viral post that attracts the wrong people is worthless
-- Likes without comments -- passive engagement, the algorithm cares less and less
+- Likes without comments -- they do not establish, on their own, whether the post helps the people you want to reach
 - Total follower count -- 500 qualified followers > 10,000 randoms
 
 Simple rule: if your posts generate conversations and opportunities (prospects, invitations, collaborations), you are on the right track. Even with 300 views.
 
 ## 7. The Mistakes That Kill Your Engagement
 
-**Posting without a hook**: you lose 80% of your potential audience in 2 seconds.
+**An opening without a clear promise**: readers cannot tell what they will get from continuing. Review the first sentence with someone rather than attributing weak reach to a single cause.
 
-**Posting at 2 PM on a Friday**: your audience is in weekend mode. Test Tuesday/Thursday 8-9 AM.
+**Applying a universal posting time**: choose a sustainable slot and adjust from your observations without confusing timing with the quality of the topic.
 
-**Never replying to comments**: the algorithm boosts posts with conversations. Every comment you reply to relaunches distribution.
+**Never replying to comments**: you leave questions and objections unanswered. Reply to continue the conversation, without promising an algorithmic effect.
 
 **Copying someone else's voice**: you will attract THEIR audience, not yours. Find your tone, even if it is imperfect at first.
 

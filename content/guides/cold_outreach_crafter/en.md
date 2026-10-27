@@ -5,13 +5,13 @@ description: The field guide to writing prospecting messages that don't end up i
 
 # Cold Outreach: Getting Replies
 
-Your inbox is full of cold emails you never read. Generic subject lines, long paragraphs about the sender's company, a CTA that asks for 30 minutes of your time before providing any value. You delete them in 2 seconds. So do your prospects when they receive yours.
+Your prospect receives other requests alongside yours. The subject and opening line should make it clear why you are writing to that person.
 
 ## Why It Matters
 
 Cold outreach remains one of the most effective growth channels when done right. It is direct, scalable, and controllable. Unlike content marketing or SEO, you choose exactly who you talk to and when. But "when done right" is the key phrase -- bad cold outreach does not just fail, it damages your brand.
 
-The difference between a 2% and a 15% reply rate is not volume. It is relevance.
+The aim is to start a relevant conversation, not to promise a reply rate. Measure your own results for a defined segment and period.
 
 ## The Process
 
@@ -21,11 +21,11 @@ The first line determines if the rest gets read. Reference something specific: a
 
 ### Step 2: Make the Value Proposition About Them
 
-One sentence. What specific outcome can you help them achieve? Not what you do -- what changes for them. "We help B2B SaaS companies reduce churn by 20% in the first 90 days" beats "We are a customer success platform with AI-powered insights."
+State the specific outcome you can help with, supported by a real example if you have one. Do not invent a percentage or a customer result to make the sentence persuasive.
 
 ### Step 3: Build a 3-Touch Sequence
 
-One email is not enough. Plan three touches over 10-14 days. The first introduces the value. The second adds proof (a case study, a number, a relevant insight). The third is a polite breakup that often gets the highest reply rate ("Seems like this is not a priority right now -- no worries, just closing the loop").
+Plan an initial contact and, where appropriate, a limited number of follow-ups. Each should add something useful: a relevant resource, documented case or clarification. Stop after a refusal and avoid manufactured urgency.
 
 ## Common Mistakes
 
@@ -33,7 +33,7 @@ One email is not enough. Plan three touches over 10-14 days. The first introduce
 
 **Asking for too much too soon** -- a 30-minute call is a big ask from a stranger. Offer value first, earn the meeting.
 
-**No follow-up** -- most replies come from the second or third touch, not the first. If you only send one email, you are leaving 60% of responses on the table.
+**Following up without adding value** -- measure useful replies and refusals at each step, then adjust the cadence instead of simply adding messages.
 
 **Same message to everyone** -- segmentation matters. A VP of Sales and a CTO have different pain points. Write different messages.
 

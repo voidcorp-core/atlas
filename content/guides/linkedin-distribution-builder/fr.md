@@ -1,175 +1,175 @@
 ---
-title: Ecrire des posts LinkedIn qui travaillent pour toi
-description: Le guide terrain pour transformer tes idees en posts LinkedIn qui generent de la credibilite, des conversations et des opportunites. Pas de hacks, pas de viralite artificielle — du contenu qui construit.
+title: Écrire des posts LinkedIn qui travaillent pour toi
+description: Le guide terrain pour transformer tes idées en posts LinkedIn qui génèrent de la crédibilité, des conversations et des opportunités. Pas de hacks, pas de viralité artificielle — du contenu qui construit.
 ---
 
-# Ecrire des posts LinkedIn qui travaillent pour toi
+# Écrire des posts LinkedIn qui travaillent pour toi
 
-LinkedIn n'est pas un reseau social.
-C'est une machine a reputation.
+LinkedIn n'est pas un réseau social.
+C'est une machine à réputation.
 
-Chaque post que tu publies est une micro-preuve de ton expertise. Pas un cri dans le vide — un signal envoye aux bonnes personnes.
+Chaque post que tu publies est une micro-preuve de ton expertise. Pas un cri dans le vide — un signal envoyé aux bonnes personnes.
 
-Le probleme : la plupart des builders savent qu'ils devraient publier. Mais entre "j'ai un truc a dire" et un post publie, il y a un gouffre. Ce guide est le pont.
+Le problème : la plupart des builders savent qu'ils devraient publier. Mais entre "j'ai un truc à dire" et un post publié, il y a un gouffre. Ce guide est le pont.
 
-## 1. Pourquoi la plupart des posts echouent
+## 1. Pourquoi la plupart des posts échouent
 
 Avant de parler de ce qui marche, vidons le sujet de ce qui ne marche pas.
 
-**Le post fantome** : tu publies, personne ne reagit, tu te dis que LinkedIn c'est mort. Le probleme n'est pas LinkedIn. C'est que ton hook ne donne aucune raison de cliquer "voir plus".
+**Le post fantôme** : tu publies, personne ne reagit, tu te dis que LinkedIn c'est mort. Le problème n'est pas LinkedIn. C'est que ton hook ne donne aucune raison de cliquer "voir plus".
 
-**Le post tiede** : "Je pense que l'IA va changer beaucoup de choses." Ok. Et ? Pas de point de vue = pas d'engagement. Les gens reagissent aux opinions, pas aux constats.
+**Le post tiède** : "Je pense que l'IA va changer beaucoup de choses." Ok. Et ? Pas de point de vue = pas d'engagement. Les gens reagissent aux opinions, pas aux constats.
 
-**Le post ego** : "Ravi d'annoncer que..." Personne ne s'en fout autant que tu le crois. Le lecteur se demande toujours : "qu'est-ce que ca change pour MOI ?"
+**Le post ego** : "Ravi d'annoncer que..." Personne ne s'en fout autant que tu le crois. Le lecteur se demande toujours : "qu'est-ce que ça change pour MOI ?"
 
-**Le post clone** : tu as copie la structure d'un post viral. Sauf que sans ton vecu dedans, ca sonne creux. Les templates sont des points de depart, pas des arrivees.
+**Le post clone** : tu as copié la structure d'un post viral. Sauf que sans ton vécu dedans, ça sonne creux. Les templates sont des points de départ, pas des arrivées.
 
 Si tu te reconnais dans un de ces cas, c'est normal. Tout le monde y passe.
 
-## 2. Les 3 regles qui changent tout
+## 2. Les 3 règles qui changent tout
 
-Apres avoir analyse des centaines de posts qui performent (pas ceux des influenceurs LinkedIn — ceux de vrais experts), trois patterns reviennent systematiquement.
+Trois principes de rédaction peuvent t’aider à produire un post plus clair. Ils servent à relire ton texte, pas à garantir sa portée.
 
-### Regle 1 : 1 post = 1 idee
+### Règle 1 : 1 post = 1 idée
 
-Si tu ne peux pas resumer ton post en une phrase, c'est qu'il y a deux posts dedans. Coupe. Le deuxieme, tu le publies jeudi.
+Si tu ne peux pas résumer ton post en une phrase, c'est qu'il y a deux posts dedans. Coupe. Le deuxième, tu le publies jeudi.
 
-Exercice : avant d'ecrire, complete cette phrase :
-"Apres avoir lu mon post, le lecteur saura que ___."
+Exercice : avant d'écrire, complète cette phrase :
+"Après avoir lu mon post, le lecteur saura que ___."
 
 Si ta phrase contient un "et", tu as deux posts.
 
-### Regle 2 : Le hook decide de tout
+### Règle 2 : Rendre la première ligne utile
 
-Sur mobile, seules les 2 premieres lignes sont visibles. Le reste est cache derriere "voir plus". Si ton hook ne cree pas de tension, personne ne clique.
+La partie visible d’un post varie selon l’écran et le format. Place dès le début l’idée ou la situation qui justifie de lire la suite, sans promettre ce que le texte ne démontre pas.
 
-Ce qui fonctionne :
-- Un chiffre inattendu : "J'ai perdu 26h l'annee derniere. Sur une seule tache."
-- Une contradiction : "Le meilleur investissement de 2024 ? Supprimer la moitie de mes outils."
-- Une question provocante : "Pourquoi les freelances a 800EUR/jour bossent plus que ceux a 400EUR ?"
+Exemples fictifs de formes d’accroche, à employer uniquement si tu peux en défendre les faits :
+- Un chiffre inattendu : "J'ai perdu 26h l'année dernière. Sur une seule tâche."
+- Une contradiction : "Le meilleur investissement de 2024 ? Supprimer la moitié de mes outils."
+- Une question provocante : "Pourquoi les freelances à 800EUR/jour bossent plus que ceux à 400EUR ?"
 - Une affirmation forte : "Ton side project n'a pas besoin de plus de marketing. Il a besoin d'un enterrement."
 
 Ce qui ne fonctionne pas :
 - "Aujourd'hui je voulais partager..." (personne ne veut que tu partages)
-- "Petite reflexion du matin..." (= je n'ai pas reflechi a mon hook)
-- "Thread" / "A lire" / "Important" (= je crie parce que j'ai rien de mieux)
+- "Petite réflexion du matin..." (= je n'ai pas réfléchi à mon hook)
+- "Thread" / "À lire" / "Important" (= je crie parce que j'ai rien de mieux)
 
-### Regle 3 : Ecris comme tu parles
+### Règle 3 : Écris comme tu parles
 
-Le ton corporate est mort sur LinkedIn. Les posts qui performent aujourd'hui ont un ton conversationnel, direct, personnel.
+Choisis un ton que tu peux tenir dans une vraie conversation avec les personnes auxquelles tu t’adresses. Un style personnel ne garantit pas la diffusion ; il aide à rester cohérent avec ce que tu veux dire.
 
-Test simple : lis ton post a voix haute. Si ca sonne comme un communique de presse, reecris.
+Test simple : lis ton post à voix haute. Si ça sonne comme un communiqué de presse, réécris.
 
 ## 3. Les 5 formats qui marchent
 
-Pas besoin de reinventer la roue a chaque post. Ces 5 formats couvrent 90% des situations.
+Ces cinq formats offrent des points de départ. Choisis celui qui sert ta matière, plutôt que de forcer une idée dans une structure.
 
 ### Le Storytelling
-Tu racontes un moment vecu. Situation, probleme, tournant, lecon.
-Ideal pour : montrer ta credibilite par l'experience, creer de l'identification.
-Piege a eviter : le storytelling qui ne mene nulle part. Chaque histoire doit avoir une lecon claire.
+Tu racontes un moment vécu. Situation, problème, tournant, leçon.
+Idéal pour : montrer ta crédibilité par l'expérience, créer de l'identification.
+Piège à éviter : le storytelling qui ne mène nulle part. Chaque histoire doit avoir une leçon claire.
 
 ### La Liste Actionnable
-Tu donnes 5-7 conseils concrets. Format scannable, valeur immediate.
-Ideal pour : partager une expertise, generer des saves et partages.
-Piege a eviter : la liste de banalites. "1. Soyez organise" n'apprend rien a personne.
+Tu donnes 5-7 conseils concrets. Format scannable, valeur immédiate.
+Idéal pour : partager une expertise, générer des saves et partages.
+Piège à éviter : la liste de banalités. "1. Soyez organisé" n'apprend rien à personne.
 
-### L'Opinion Tranchee
+### L'Opinion Tranchée
 Tu prends position sur un sujet. Tu dis ce que les autres pensent tout bas.
-Ideal pour : generer des commentaires, te positionner, attirer les bons profils.
-Piege a eviter : la provocation gratuite sans substance. Une opinion sans argument, c'est un troll.
+Idéal pour : générer des commentaires, te positionner, attirer les bons profils.
+Piège à éviter : la provocation gratuite sans substance. Une opinion sans argument, c'est un troll.
 
 ### Le Cas Concret
-Avant/Apres avec des chiffres. Tu montres un resultat reel.
-Ideal pour : prouver ton expertise, attirer des prospects.
-Piege a eviter : le cas trop generique. "J'ai aide un client a augmenter son CA" — de combien ? comment ? en combien de temps ?
+Avant/Après avec des chiffres. Tu montres un résultat réel.
+Idéal pour : prouver ton expertise, attirer des prospects.
+Piège à éviter : le cas trop générique. "J'ai aidé un client à augmenter son CA" — de combien ? comment ? en combien de temps ?
 
 ### Le Framework
-Tu formalises un process que tu utilises. 3-4 etapes claires.
-Ideal pour : asseoir ton autorite, creer du contenu repartageable.
-Piege a eviter : le framework trop abstrait. Chaque etape doit etre executable.
+Tu formalises un process que tu utilises. 3-4 étapes claires.
+Idéal pour : asseoir ton autorité, créer du contenu repartageable.
+Piège à éviter : le framework trop abstrait. Chaque étape doit être exécutable.
 
-## 4. Le process concret : de l'idee au post
+## 4. Le process concret : de l'idée au post
 
-Voici le process en 4 etapes que j'utilise. Temps total : 15-25 minutes par post.
+Voici un processus en quatre étapes à adapter. Mesure le temps qu’il te demande avant de choisir ton rythme de publication.
 
-**Etape 1 — Capturer (2 min)**
-Garde une note (Notion, Apple Notes, peu importe) ou tu jettes tes idees brutes au fil de la journee. Un apprentissage, une frustration, un chiffre, une conversation marquante. Ne filtre pas, accumule.
+**Étape 1 — Capturer**
+Garde une note (Notion, Apple Notes, peu importe) où tu jettes tes idées brutes au fil de là journée. Un apprentissage, une frustration, un chiffre, une conversation marquante. Ne filtre pas, accumule.
 
-**Etape 2 — Choisir l'angle (3 min)**
-Prend une idee brute et demande-toi : quelle emotion je veux declencher ?
-- Identification ("c'est exactement mon probleme")
-- Curiosite ("je veux savoir la suite")
-- Surprise ("je ne m'attendais pas a ca")
+**Étape 2 — Choisir l’angle**
+Prends une idée brute et demande-toi : quelle émotion je veux déclencher ?
+- Identification ("c'est exactement mon problème")
+- Curiosité ("je veux savoir la suite")
+- Surprise ("je ne m'attendais pas à ça")
 - Controverse douce ("je ne suis pas d'accord, mais...")
 
-L'emotion decide du format. Identification → Storytelling. Curiosite → Cas concret. Surprise → Opinion. Etc.
+L'émotion décide du format. Identification → Storytelling. Curiosité → Cas concret. Surprise → Opinion. Etc.
 
-**Etape 3 — Ecrire avec l'IA (10-15 min)**
-C'est la que le prompt "La Forge LinkedIn" entre en jeu. Donne ton idee brute, choisis parmi les 3 angles proposes, puis itere avec les raccourcis.
+**Étape 3 — Écrire avec l’IA**
+C'est là que le prompt "La Forge LinkedIn" entre en jeu. Donne ton idée brute, choisis parmi les 3 angles proposes, puis itère avec les raccourcis.
 
-👉 [Acceder au prompt La Forge LinkedIn](/prompts/linkedin_post_forge)
+👉 [Accéder au prompt La Forge LinkedIn](/prompts/linkedin_post_forge)
 
 Workflow type :
-1. Tu donnes ton idee brute
+1. Tu donnes ton idée brute
 2. Tu choisis un angle parmi les 3 proposes
-3. Tu lis le post genere + le diagnostic
-4. Tu tapes "Hook" si le hook est faible, "Epice" si c'est trop sage, "Court" si c'est trop long
-5. Tu personnalises les derniers details (ton vecu, tes chiffres, ta voix)
+3. Tu lis le post génère + le diagnostic
+4. Tu tapes "Hook" si le hook est faible, "Épice" si c'est trop sage, "Court" si c'est trop long
+5. Tu personnalises les derniers détails (ton vécu, tes chiffres, tà voix)
 
-**Etape 4 — Le test de la voix haute (2 min)**
-Lis ton post a voix haute. Si une phrase sonne fausse ou forcee, coupe-la. Si tu ne la dirais pas a un pote devant un cafe, elle n'a rien a faire dans ton post.
+**Étape 4 — Le test de la voix haute**
+Lis ton post à voix haute. Si une phrase sonne fausse ou forcée, coupe-la. Si tu ne la dirais pas à un pote devant un café, elle n'a rien à faire dans ton post.
 
 ## 5. Le rythme qui construit (sans te cramer)
 
-Publier tous les jours pendant 2 semaines puis disparaitre 3 mois, c'est pire que ne rien publier.
+Choisis un rythme compatible avec ton travail et la matière que tu as réellement à partager.
 
-Rythme minimum viable : **2 posts par semaine**. C'est assez pour rester visible, pas assez pour te vider.
+Exemple de départ : un post par semaine, puis un bilan après quelques publications. Ce rythme n’est ni un minimum de visibilité ni une promesse de résultat.
 
-Rythme recommande : **3 posts par semaine** (mardi, jeudi, samedi matin). Le samedi matin est sous-exploite sur LinkedIn — moins de concurrence, bon engagement.
+Teste les jours et horaires auprès de ton audience au lieu d’appliquer un créneau présenté comme optimal. Compare surtout la qualité des échanges, pas seulement les impressions.
 
-Si tu debutes, commence par 1 post/semaine pendant 4 semaines. Le but : installer l'habitude, pas chercher la perf.
+Augmente la fréquence seulement si tu conserves la qualité des exemples, des preuves et des réponses aux lecteurs.
 
-## 6. Les metriques qui comptent (et celles qui mentent)
+## 6. Les métriques qui comptent (et celles qui mentent)
 
-**Metriques utiles :**
-- Commentaires qualifies (pas les "super post !") — signe que ton contenu fait reflechir
-- Messages prives recus apres un post — signe que tu attires les bons profils
+**Métriques utiles :**
+- Commentaires qualifiés (pas les "super post !") — signe que ton contenu fait réfléchir
+- Messages privés reçus après un post — signe que tu attires les bons profils
 - Saves/partages — signe que ton contenu a de la valeur durable
-- Nouveaux abonnes qualifies — signe que ton positionnement est clair
+- Nouveaux abonnés qualifiés — signe que ton positionnement est clair
 
-**Metriques trompeuses :**
+**Métriques trompeuses :**
 - Nombre de vues brut — un post viral qui attire les mauvaises personnes ne vaut rien
-- Likes sans commentaires — engagement passif, l'algo s'en fiche de plus en plus
-- Nombre d'abonnes total — 500 abonnes qualifies > 10 000 randoms
+- Likes sans commentaires — ils ne disent pas, à eux seuls, si le post aide les personnes que tu veux toucher
+- Nombre d'abonnés total — 500 abonnés qualifiés > 10 000 randoms
 
-Regle simple : si tes posts generent des conversations et des opportunites (prospects, invitations, collaborations), tu es sur la bonne voie. Meme avec 300 vues.
+Règle simple : si tes posts génèrent des conversations et des opportunités (prospects, invitations, collaborations), tu es sur la bonne voie. Même avec 300 vues.
 
 ## 7. Les erreurs qui tuent ton engagement
 
-**Poster sans hook** : tu perds 80% de ton audience potentielle en 2 secondes.
+**Une accroche sans promesse claire** : le lecteur ne sait pas ce que la suite va lui apporter. Relis la première phrase avec lui, plutôt que d’attribuer une faible portée à une cause unique.
 
-**Poster a 14h un vendredi** : ton audience est en mode week-end. Teste le mardi/jeudi 8h-9h.
+**Appliquer un horaire universel** : conserve un créneau soutenable puis ajuste-le à partir de tes observations, sans confondre horaire et qualité du sujet.
 
-**Ne jamais repondre aux commentaires** : l'algo booste les posts avec des conversations. Chaque commentaire auquel tu reponds relance la distribution.
+**Ne jamais répondre aux commentaires** : tu laisses des questions et des objections sans réponse. Réponds pour prolonger la conversation, sans promettre un effet sur l’algorithme.
 
-**Copier la voix d'un autre** : tu vas attirer SON audience, pas la tienne. Trouve ton ton, meme si c'est imparfait au debut.
+**Copier la voix d'un autre** : tu vas attirer SON audience, pas la tienne. Trouve ton ton, même si c'est imparfait au début.
 
-**Parler de toi sans parler AU lecteur** : chaque post doit repondre a la question implicite du lecteur : "En quoi ca me concerne ?"
+**Parler de toi sans parler AU lecteur** : chaque post doit répondre à la question implicite du lecteur : "En quoi ça me concerne ?"
 
 ## 8. Aller plus loin
 
-Une fois ton rythme installe et tes premiers posts publies, explore ces ressources Atlas complementaires :
+Une fois ton rythme installe et tes premiers posts publies, explore ces ressources Atlas complémentaires :
 
-- **Strategie Personal Branding 30j** — Pour structurer ton calendrier editorial sur un mois complet
-👉 [Acceder au prompt](/prompts/mkt_personal_branding_social_30d)
+- **Stratégie Personal Branding 30j** — Pour structurer ton calendrier éditorial sur un mois complet
+👉 [Accéder au prompt](/prompts/mkt_personal_branding_social_30d)
 
-- **Growth Content Analyzer** — Pour analyser tes posts apres publication et identifier ce qui marche
-👉 [Acceder au prompt](/prompts/content_autopsy)
+- **Growth Content Analyzer** — Pour analyser tes posts après publication et identifier ce qui marche
+👉 [Accéder au prompt](/prompts/content_autopsy)
 
-- **Scanner de Reputation** — Pour verifier que ton positionnement LinkedIn est coherent avec l'image que tu veux projeter
-👉 [Acceder au prompt](/prompts/reputation_power_check)
+- **Scanner de Réputation** — Pour vérifier que ton positionnement LinkedIn est cohérent avec l'image que tu veux projeter
+👉 [Accéder au prompt](/prompts/reputation_power_check)
 
 ---
 
-*Ce guide fait partie de la serie Growth Builder sur Atlas.*
+*Ce guide fait partie de la série Growth Builder sur Atlas.*
