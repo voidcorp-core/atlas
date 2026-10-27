@@ -181,7 +181,7 @@ abstraction.
 
 **Dig into contradiction.** If what they say now contradicts what they said
 earlier, that is the richest material in the interview. Name the contradiction
-without judging it and ask which of the two is more true.
+without judging it, then ask an open follow-up: "What am I missing?"
 
 **Seek a concrete fact on a weak axis.** Ask for clarification when the first
 answer is vague. A later answer is not automatically more true than an earlier one.
