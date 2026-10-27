@@ -4,13 +4,20 @@ on:
   pull_request:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 concurrency:
-  group: registre-${{ github.ref }}
+  group: registre-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   validate:
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
 
@@ -19,18 +26,22 @@ jobs:
 
       - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version-file: .nvmrc
+          cache: npm
 
       - run: npm ci
 
-      # Schémas, vocabulaire contrôlé, et surtout parité stricte des variables
-      # entre les deux locales : c'est ce contrôle qui empêche un formulaire de
-      # différer selon la langue.
-      - name: Valider la source
-        run: npm run validate
+      - name: Valider la source et les artefacts
+        run: npm run check
 
-      # Les artefacts servis au site doivent refléter la source à l'octet près.
-      - name: Vérifier les artefacts générés
-        run: |
-          npm run build
-          node scripts/check-artifacts.mjs
+  audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+      # Vérifie aussi les dépendances d'outillage, sans exécuter leur installation.
+      - name: Vérifier les avis de sécurité
+        run: npm audit --package-lock-only --audit-level=high

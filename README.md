@@ -89,7 +89,7 @@ against your own schema - that is what the site does.
 
 ## Working on the registry
 
-Requires Node 20 or later.
+Requires Node 22 or later. Node 24 is recommended and used in CI (`.nvmrc`).
 
 ```bash
 npm install

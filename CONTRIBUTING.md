@@ -43,7 +43,7 @@ reproach.
 npm install
 ```
 
-Node 20 or later.
+Node 22 or later. Node 24 is recommended and used in CI (`.nvmrc`).
 
 ## Where the content lives
 
