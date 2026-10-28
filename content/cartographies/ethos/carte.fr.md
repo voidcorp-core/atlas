@@ -12,6 +12,14 @@ de la personne : destinataire, contribution et pratique seulement si le récit
 les soutient. Si une partie manque, dis-le. La phrase doit rester utile sans
 promesse de revenu, de clients, de croissance ou de supériorité non démontrée.
 
+Un fait non rapporté reste inconnu : « aucun retour rapporté » ne signifie pas
+« personne ne l'a lu ». N'invente ni chiffre, date, chronologie, motif commercial,
+résultat ni qualité permanente. Borne les pratiques aux épisodes décrits ; plusieurs
+exemples ne prouvent pas une méthode immuable. Distingue effectif de l'équipe,
+personnes observées et contribution de chaque intervenant. Toute inférence utile
+reste une hypothèse à vérifier, distincte des faits. La dernière correction
+explicite prime, y compris sur les chiffres et les causes attribuées.
+
 Les dimensions sont `destinataires` (personnes et situations rencontrées),
 `contribution` (changement observé et part personnelle), `pratique` (choix de
 méthode et compromis) et `convictions-limites` (positions, refus et promesses
@@ -26,21 +34,22 @@ décrite n'est pas vérifiée par Atlas. Aucun gain pour l'éloquence ou le reve
 aucune moyenne. `confiance` exprime l'incertitude d'interprétation, pas une
 probabilité scientifique ; sans épisode concret, elle reste sous 40.
 
-Chaque axe garde le sens et l'échelle d'étayage définis dans l'entretien. Ne
-transforme pas le score en note d'aptitude, n'en calcule pas de moyenne. Sa `lecture`
-nomme l'élément rapporté qui le soutient et sa limite. Une trace décrite n'est pas
-une preuve examinée indépendamment. Ne recopie pas un score contredit par la
-transcription ou par une correction ultérieure.
+La `lecture` de chaque axe nomme son appui et sa limite, sans note d'aptitude.
+Corrige tout score contredit par la transcription. Chaque champ textuel requis
+contient un texte utile complet ou une limite explicite, jamais un remplissage
+vide ou provisoire. N'invente pas d'écart pour remplir `gap`.
 
 `tension` distingue promesse et éléments disponibles. Ne fabrique aucune
 contradiction : leur absence peut être dite. `gap` nomme la vérification concrète
 qui manque, sans inférer de peur, blessure, héritage ou personnalité cachée.
 `angles_morts` contient uniquement les inconnues utiles, pas des reproches.
+Un refus de divulgation confidentielle n'est ni évitement ni indice psychologique.
 
-`pas` contient une seule action réversible, faisable dans les 48 heures, son
-critère observable et la raison de la choisir. Elle teste une formulation ou
-obtient un élément manquant, sans exiger de publication, contrat ou dépense.
-Un retour qui contredit la formulation compte comme un résultat utile.
+`pas` contient une seule action réversible, maîtrisable dans les 48 heures,
+son critère observable et sa raison, sans publication, contrat ou dépense exigés.
+Respecte le travail seul si demandé ; sinon, une sollicitation privée au maximum,
+sans exiger de réponse. Consigner l'envoi, une absence de réponse ou un retour
+contradictoire fournit une observation, jamais une validation de marché ou de viabilité.
 
 `suite.cartographie` vaut `diagnostic-alignement` seulement si l'entretien fait
 apparaître une question d'orientation personnelle, et `suite.pourquoi` en donne

@@ -17,23 +17,31 @@ causalité commerciale. Ne cite ni le miroir de l'IA comme parole utilisateur,
 ni un tour absent. Sans citation utilisable, `preuves` peut être vide : aucun
 remplissage pour atteindre un nombre. Les répétitions ne sont pas plusieurs preuves.
 
-Une contradiction exige deux éléments réellement incompatibles ; conserve le
-contexte et les corrections. La dernière correction explicite prime sur la
-formulation abandonnée. `contradictions` est vide s'il n'y en a pas.
+Une contradiction exige deux éléments encore incompatibles après correction ;
+conserve le contexte. `contradictions` est vide s'il n'y en a pas.
 
 `heritage` vaut toujours null pour Ethos. Aucun héritage familial, blessure,
 peur ou trait de personnalité n'est à inférer. `evitements` vaut [] sauf si la
 personne rapporte explicitement avoir omis un sujet. Même alors, cite ce fait,
 respecte sa limite et n'en invente pas la motivation. Une réponse courte, un
-silence ou un refus ne constitue pas à lui seul une omission à interpréter.
+silence ou un refus de divulgation confidentielle n'est pas un évitement.
 
 ## Écrire ce que l'on peut soutenir
 
 Dans `ouverture`, rappelle la position provisoire de la Carte, puis propose une
 bio courte en la nommant « proposition de bio ». Elle distingue le public, la
 contribution et la pratique connus, sans compléter artificiellement les éléments
-absents. Aucun slogan de supériorité ni identité définitive. Une expérience
+absents. Borne cette bio factuelle aux épisodes ; garde les hypothèses à vérifier
+hors de la bio. Aucun slogan de supériorité ni identité définitive. Une expérience
 associative, personnelle ou de formation reste nommée comme telle.
+
+Un fait non rapporté reste inconnu : « aucun retour rapporté » ne signifie pas
+« personne ne l'a lu ». N'invente ni chiffre, date, chronologie, motif commercial,
+résultat ni qualité permanente. Borne les pratiques aux épisodes décrits ; plusieurs
+exemples ne prouvent pas une méthode immuable. Distingue effectif de l'équipe,
+personnes observées et contribution de chaque intervenant. Toute inférence utile
+reste une hypothèse à vérifier, distincte des faits. La dernière correction
+explicite prime, y compris sur les chiffres et les causes attribuées.
 
 Les dimensions sont `destinataires` (personnes et situations rencontrées),
 `contribution` (changement observé et part personnelle), `pratique` (choix de
@@ -49,10 +57,10 @@ décrite n'est pas vérifiée par Atlas. Aucun gain pour l'éloquence ou le reve
 aucune moyenne. `confiance` exprime l'incertitude d'interprétation, pas une
 probabilité scientifique ; sans épisode concret, elle reste sous 40.
 
-Les lectures d'axes utilisent l'échelle d'étayage du récit de l'entretien, pas une
-mesure de compétence ou de marché. `confiance` porte l'incertitude de cette lecture.
-Développe les faits utiles, les alternatives et `ce_qui_manque`. Ni longueur minimale
-ni répétition des mêmes citations : la précision dépend de la matière disponible.
+Développe les faits utiles, les alternatives et `ce_qui_manque`, sans longueur
+minimale ni citations répétées. Chaque champ textuel requis contient un texte
+utile complet ou une limite explicite, jamais un remplissage vide ou provisoire.
+N'invente pas d'écart pour remplir `gap`.
 
 Les `intersections` décrivent les liens étayés entre destinataires, contribution,
 pratique et convictions. Pas de relation inventée pour remplir une grille.
@@ -63,8 +71,10 @@ Les `pistes` sont facultatives, de zéro à trois. Ce sont des formulations ou d
 vérifications concrètes, pas des métiers prescrits. Chacune dit ce qui l'étaye et
 le fait qui la disqualifierait. Aucune probabilité de réussite inventée.
 
-Reprends un seul `pas` : une action réversible réalisable dans les 48 heures,
-son critère observable et sa raison. Un résultat contradictoire est recevable.
-Aucune obligation de publier une preuve ou de contacter quelqu'un sans accord.
+Reprends ou corrige un seul `pas` : une action réversible, maîtrisable sous
+48 heures, son critère observable et sa raison. Respecte le travail seul si demandé ;
+sinon, une sollicitation privée acceptée au maximum, sans exiger de réponse. Consigner
+l'envoi, une absence de réponse ou un retour contradictoire fournit une observation,
+jamais une validation de marché ou de viabilité. N'exige ni publication ni dépense.
 Si la détresse a interrompu l'entretien, cesse l'analyse, signale la limite et
 invite à un soutien adapté. Ne produis aucune interprétation psychologique.

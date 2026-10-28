@@ -17,21 +17,29 @@ commercial causality. Never quote an AI mirror as the user's words or cite a
 missing turn. Without a usable quotation, `preuves` may be empty: do not pad to
 meet a count. Repetitions are not several proofs.
 
-A contradiction requires two genuinely incompatible elements; preserve context
-and corrections. The latest explicit correction takes precedence over the
-abandoned wording. Leave `contradictions` empty if none are present.
+A contradiction requires two elements still incompatible after correction;
+preserve context. Leave `contradictions` empty if none are present.
 
 `heritage` is always null for Ethos. Infer no family legacy, injury, fear or
 personality trait. `evitements` is [] unless the person explicitly reports omitting
 a topic. Even then, cite that fact, respect the boundary and invent no motive.
-A short answer, silence or refusal alone is not an omission to interpret.
+A short answer, silence or refusal to disclose confidential information is not avoidance.
 
 ## Write what can be supported
 
 In `ouverture`, recall the Card's provisional position, then offer a short bio
 labelled "proposed bio". Distinguish the known audience, contribution and practice
-without artificially filling gaps. No superiority slogan or permanent identity.
+without artificially filling gaps. Bound this factual bio to the episodes; keep
+hypotheses to check outside the bio. No superiority slogan or permanent identity.
 Voluntary, personal and training experiences retain those labels.
+
+An unreported fact remains unknown: "no feedback reported" does not mean "nobody
+has read it". Invent no figure, date, chronology, commercial motive, result or
+permanent quality. Keep practices bounded to the described episodes; several
+examples do not establish an unvarying method. Distinguish team size, people observed and
+each participant's contribution. Any useful inference remains a hypothesis to
+check, separate from facts. The latest explicit correction takes precedence,
+including corrections to figures and attributed causes.
 
 The dimensions are `destinataires` (people and situations encountered),
 `contribution` (observed change and personal contribution), `pratique` (method
@@ -47,10 +55,9 @@ No increase for eloquence or income, and no average. `confiance` expresses
 interpretive uncertainty, not a scientific probability; without a concrete
 episode, it stays below 40.
 
-Axis readings use the interview's support scale, not a measure of competence or
-market demand. `confiance` concerns uncertainty in that reading. Develop useful
-facts, alternatives and `ce_qui_manque`. No minimum length or repeated quotations:
-precision depends on the available material.
+Develop useful facts, alternatives and `ce_qui_manque`, without a minimum length
+or repeated quotations. Every required text field contains complete useful text
+or an explicit limit, never an empty value or placeholder. Invent no gap to fill `gap`.
 
 `intersections` describe supported links between audience, contribution, practice
 and convictions. Invent no connection to fill a grid. `tension_centrale`, `gap`
@@ -61,8 +68,10 @@ say so instead of diagnosing a hidden blockage.
 not prescribed careers. Each states what supports it and what would disqualify it.
 Invent no probability of success.
 
-Keep one `pas`: a reversible action doable within 48 hours, its observable criterion
-and its reason. A contradictory result is acceptable. Do not require publishing
-proof or contacting anyone without permission. If distress interrupted the interview,
-stop the analysis, state the limit and suggest appropriate support. Produce no
-psychological interpretation.
+Keep or correct one `pas`: a reversible action within the person's control within
+48 hours, its observable criterion and reason. Respect a request to work alone;
+otherwise, at most one agreed private request for feedback, with no reply required.
+Recording the message sent, no reply or contradictory feedback yields an observation,
+never validation of market demand or viability. Require no publication or spending.
+If distress interrupted the interview, stop the analysis, state the limit and
+suggest appropriate support. Produce no psychological interpretation.

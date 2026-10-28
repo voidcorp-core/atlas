@@ -12,6 +12,14 @@ person: audience, contribution and practice only where the account supports them
 State what is missing. Keep the statement useful without unsupported promises
 of revenue, customers, growth or superiority.
 
+An unreported fact remains unknown: "no feedback reported" does not mean "nobody
+has read it". Invent no figure, date, chronology, commercial motive, result or
+permanent quality. Keep practices bounded to the described episodes; several
+examples do not establish an unvarying method. Distinguish team size, people observed and
+each participant's contribution. Any useful inference remains a hypothesis to
+check, separate from facts. The latest explicit correction takes precedence,
+including corrections to figures and attributed causes.
+
 The dimensions are `destinataires` (people and situations encountered),
 `contribution` (observed change and personal contribution), `pratique` (method
 choices and trade-offs), and `convictions-limites` (positions, refusals and
@@ -26,21 +34,23 @@ No increase for eloquence or income, and no average. `confiance` expresses
 interpretive uncertainty, not a scientific probability; without a concrete
 episode, it stays below 40.
 
-Each axis retains the meaning and support scale defined in the interview. Do not
-turn scores into aptitude grades or average them. Its `lecture` names the reported
-material supporting it and its limit. A described record is not independently
-examined proof. Do not copy a score contradicted by the transcript or a later
-correction.
+Each axis's `lecture` names its support and limit, without grading aptitude.
+Correct any score contradicted by the transcript. Every required text field
+contains complete useful text or an explicit limit, never an empty value or
+placeholder. Invent no gap to fill `gap`.
 
 `tension` distinguishes the promise from available evidence. Invent no conflict:
 the absence of one can be stated. `gap` names the concrete check still missing,
 without inferring fear, injury, inherited motives or hidden personality.
 `angles_morts` contains useful unknowns, not accusations.
+Refusing confidential disclosure is neither avoidance nor a psychological cue.
 
-`pas` contains one reversible action doable within 48 hours, its observable
-criterion and the reason for choosing it. It tests a formulation or obtains
-missing information without requiring publication, a contract or spending.
-Feedback contradicting the statement is a useful result too.
+`pas` contains one reversible action within the person's control within 48 hours,
+its observable criterion and reason, without requiring publication, a contract
+or spending. Respect a request to work alone; otherwise, at most one private
+request for feedback, with no reply required. Recording the message sent, no
+reply or contradictory feedback yields an observation, never validation of market
+demand or viability.
 
 `suite.cartographie` is `diagnostic-alignement` only if the interview raises a
 question of personal direction, and `suite.pourquoi` gives the specific reported
