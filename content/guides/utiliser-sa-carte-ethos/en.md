@@ -1,11 +1,11 @@
 ---
-title: Turn your Ethos Card into an introduction and evidence
+title: Write a professional introduction from one experience
 description: Use one specific episode to write an accurate introduction, show its supporting evidence and test what remains uncertain.
 ---
 
 # Explain why someone should choose you, without overpromising
 
-“I help businesses accelerate growth.” The outcome sounds valuable, but the sentence does not explain your work or the evidence behind your promise. Start with a real project rather than an adjective.
+“I help businesses accelerate growth.” The outcome sounds valuable, but the sentence does not explain your work or the evidence behind your promise. Start with a real project rather than an adjective. You can do this exercise using your notes or an Ethos Card.
 
 In this fictional example, Camille is an independent designer. A three-person team asked her to review its online sign-up journey. She watched five people try the form, noted where they became confused, and proposed a shorter prototype. The team chose that prototype. No post-launch conversion data is available.
 
@@ -13,7 +13,7 @@ Camille can describe what she observed, designed and delivered. She cannot yet c
 
 An accurate introduction would be:
 
-> I help small product teams make their sign-up journeys clearer. I use observations of people trying the product to propose a prototype. On my latest project, the team selected the prototype; its effect on conversion has yet to be measured.
+> I am an independent designer. On one project for a three-person team, I watched five people try its sign-up form, noted where they became confused and proposed a shorter prototype. The team selected it; its effect on conversion remains unknown.
 
 Build your own version from one episode:
 

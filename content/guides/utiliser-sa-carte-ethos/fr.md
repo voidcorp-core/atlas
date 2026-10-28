@@ -1,11 +1,11 @@
 ---
-title: Transformer ta carte Ethos en présentation et en preuve
+title: Écrire une présentation professionnelle à partir d'une expérience
 description: Pars d'un épisode précis pour écrire une présentation fidèle, montrer ce qui l'étaye et tester ce qui reste incertain.
 ---
 
 # Dire pourquoi te choisir, sans surpromettre
 
-« J'aide les entreprises à accélérer leur croissance. » Cette phrase annonce un résultat important, mais elle ne permet pas de savoir quel travail tu fais ni sur quoi repose ta promesse. Pour la préciser, pars d'une mission réelle plutôt que d'un adjectif.
+« J'aide les entreprises à accélérer leur croissance. » Cette phrase annonce un résultat important, mais elle ne permet pas de savoir quel travail tu fais ni sur quoi repose ta promesse. Pour la préciser, pars d'une mission réelle plutôt que d'un adjectif. Tu peux faire cet exercice à partir de tes notes ou d'une Carte Ethos.
 
 Dans cet exemple fictif, Camille est designer indépendante. Une équipe de trois personnes lui a demandé de revoir son inscription en ligne. Elle a observé cinq personnes essayer le formulaire, relevé les incompréhensions, puis proposé un prototype plus court. L'équipe a retenu ce prototype. Aucune mesure de conversion après mise en ligne n'est disponible.
 
@@ -13,7 +13,7 @@ Camille peut dire ce qu'elle a observé, conçu et livré. Elle ne peut pas enco
 
 Une présentation fidèle serait :
 
-> J'aide les petites équipes produit à clarifier leurs parcours d'inscription. Je pars d'observations d'usage pour proposer un prototype. Sur ma dernière mission, l'équipe a retenu le prototype ; son effet sur la conversion reste à mesurer.
+> Je suis designer indépendante. Lors d'une mission pour une équipe de trois personnes, j'ai observé cinq personnes essayer son formulaire d'inscription, relevé les incompréhensions et proposé un prototype plus court. L'équipe l'a retenu ; son effet sur la conversion reste inconnu.
 
 Pour construire ta propre version, remplis cette fiche avec un seul épisode :
 
