@@ -20,9 +20,9 @@ editing interface, and the review is the quality gate.
 
 | Resource | Count | What it is |
 | --- | --- | --- |
-| **Cartographies** | 1 | Guided interviews. Several turns, a shareable card, then a full report |
+| **Cartographies** | 2 | Guided interviews. Several turns, a shareable card, then a full report |
 | **Prompts** | 32 | Single-shot templates with declared input variables |
-| **Guides** | 21 | Long-form markdown articles |
+| **Guides** | 22 | Long-form markdown articles |
 | **Tools** | 22 | Curated AI tools. **Frozen** - see [scope](./CONTRIBUTING.md) |
 | **Labels** | 35 | Closed vocabulary shared by every resource |
 

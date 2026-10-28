@@ -1,0 +1,21 @@
+{
+  "id": "ethos",
+  "category": "business",
+  "difficulty": "beginner",
+  "order": 1,
+  "labels": [
+    "positioning",
+    "differentiation",
+    "clarity"
+  ],
+  "tours": {
+    "min": 6,
+    "max": 16
+  },
+  "axes": [
+    "destinataires",
+    "contribution",
+    "pratique",
+    "convictions-limites"
+  ]
+}

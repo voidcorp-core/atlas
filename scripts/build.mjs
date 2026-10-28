@@ -79,6 +79,9 @@ for (const locale of LOCALES) {
     garanties: documents.entretien[locale].data.garanties,
     description: documents.entretien[locale].data.description,
     attribution: documents.entretien[locale].data.attribution ?? null,
+    ...(documents.entretien[locale].data.echelle === undefined
+      ? {}
+      : { echelle: documents.entretien[locale].data.echelle }),
     category: meta.category,
     difficulty: meta.difficulty,
     labels: meta.labels,

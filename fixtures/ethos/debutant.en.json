@@ -1,0 +1,56 @@
+{
+  "id": "debutant",
+  "locale": "en",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Beginner with no paying clients: training exercise, one deliverable and limited feedback, without validated demand.",
+  "echanges": [
+    {
+      "question": "Tell me about the last time someone chose you.",
+      "reponse": "I have never had a client. During my course, two classmates asked me to reorganise the home page for our fictional library project. It was not commercial work."
+    },
+    {
+      "question": "What did you do personally?",
+      "reponse": "I grouped the information and designed a mock-up. One classmate wrote the text; the other wrote the code. I did not test the page with real users."
+    },
+    {
+      "question": "What feedback did you receive?",
+      "reponse": "Both classmates found the mock-up clearer. Our instructor said the headings helped people scan the page. I cannot infer that the page would be used more."
+    },
+    {
+      "question": "What remains unknown?",
+      "reponse": "I do not know which organisations would need this or whether anyone would pay. I have no other project to describe and no usage measurement."
+    },
+    {
+      "question": "What boundary do you want to set?",
+      "reponse": "I want to show this exercise as an exercise. I do not want to say I helped a real library or promise new readers."
+    },
+    {
+      "question": "What can you check now?",
+      "reponse": "I can prepare a short introduction and show it privately to someone who runs an association. I want to understand which situations they recognise, without mistaking a compliment for an order."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "Fictional training project, no paying clients and no real users observed.",
+      "Individual contribution: organising information and designing a mock-up; classmates wrote the text and code.",
+      "Feedback from two classmates and the instructor, without usage measurement.",
+      "Commercial audiences and willingness to pay are unknown."
+    ],
+    "affirmations_interdites": [
+      "Work for a real library.",
+      "Validated market, acquired customers or demonstrated willingness to pay.",
+      "Improved usage, revenue or attendance.",
+      "Personal inferiority or inability inferred from having no clients."
+    ],
+    "criteres": [
+      "The four axes assess only support in the account, without an average, personal worth score or inferred market demand.",
+      "Confidence expresses interpretive uncertainty, not a scientific probability.",
+      "Evidence quotes exactly one answer and its existing turn; no described record is presented as verified by Atlas.",
+      "heritage is null and evitements stays empty: none of these scenarios reports a deliberate omission.",
+      "The bio is a proposed professional statement bounded by the facts, never a definitive identity.",
+      "There is one reversible, observable next step feasible within 48 hours; suggested pistes are optional, at most three.",
+      "For an interview follow-up: one open question of at most ten words; corrections are applied and boundaries respected."
+    ]
+  }
+}

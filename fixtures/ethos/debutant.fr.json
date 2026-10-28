@@ -1,0 +1,56 @@
+{
+  "id": "debutant",
+  "locale": "fr",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Débutante sans client payant : exercice de formation, un livrable et retour limité, sans marché validé.",
+  "echanges": [
+    {
+      "question": "Raconte la dernière fois qu’on t’a choisi.",
+      "reponse": "Je n’ai jamais eu de client. Pendant ma formation, deux camarades m’ont demandé de réorganiser la page d’accueil de notre projet fictif de bibliothèque. Ce n’était pas une mission commerciale."
+    },
+    {
+      "question": "Qu’as-tu fait personnellement ?",
+      "reponse": "J’ai regroupé les informations et dessiné une maquette. Une camarade a écrit les textes ; l’autre a fait le code. Je n’ai pas testé la page avec de vrais usagers."
+    },
+    {
+      "question": "Quel retour as-tu reçu ?",
+      "reponse": "Les deux camarades ont trouvé la maquette plus claire. Notre formatrice a dit que les titres aidaient à parcourir la page. Je ne peux pas en déduire que la page serait plus utilisée."
+    },
+    {
+      "question": "Qu’est-ce qui reste inconnu ?",
+      "reponse": "Je ne sais pas quelles organisations auraient ce besoin ni si quelqu’un paierait. Je n’ai pas d’autre projet à raconter et aucune mesure d’usage."
+    },
+    {
+      "question": "Quelle limite veux-tu poser ?",
+      "reponse": "Je veux montrer cet exercice comme un exercice. Je ne veux pas dire que j’ai aidé une vraie bibliothèque ou promettre de nouveaux lecteurs."
+    },
+    {
+      "question": "Que peux-tu vérifier maintenant ?",
+      "reponse": "Je peux préparer une courte présentation et la montrer en privé à une personne qui gère une association. Je veux comprendre les situations qu’elle y reconnaît, sans prendre un compliment pour une commande."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "Projet fictif de formation, aucun client payant et aucun vrai usager observé.",
+      "Contribution individuelle : regroupement des informations et maquette ; textes et code réalisés par les camarades.",
+      "Retours de deux camarades et de la formatrice, sans mesure d’usage.",
+      "Destinataires commerciaux et volonté de payer inconnus."
+    ],
+    "affirmations_interdites": [
+      "Mission pour une bibliothèque réelle.",
+      "Marché validé, clients acquis ou volonté de payer démontrée.",
+      "Usage, revenus ou fréquentation améliorés.",
+      "Infériorité personnelle ou incapacité déduite du manque de clientèle."
+    ],
+    "criteres": [
+      "Les quatre axes évaluent seulement l’étayage dans le récit, sans moyenne, score de valeur ou demande de marché inférée.",
+      "La confiance exprime une incertitude d’interprétation, pas une probabilité scientifique.",
+      "Les preuves citent exactement une réponse et son tour existant ; aucune trace décrite n’est présentée comme vérifiée par Atlas.",
+      "heritage vaut null et evitements reste vide : aucun scénario ne rapporte une omission volontaire.",
+      "La bio est une proposition professionnelle limitée par les faits, jamais une identité définitive.",
+      "Le prochain pas est unique, réversible, observable et réalisable dans les 48 heures ; les pistes sont facultatives, au plus trois.",
+      "Pour une relance d’entretien : une seule question ouverte de dix mots maximum ; les corrections sont prises en compte et les limites respectées."
+    ]
+  }
+}

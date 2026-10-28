@@ -195,6 +195,24 @@ because the interview will not happen. The CI enforces a minimum length for that
 3. `carte.fr.md`, `carte.en.md`, `dossier.fr.md`, `dossier.en.md`: the synthesis instructions,
    with a frontmatter reduced to `titre`.
 
+### Optional scale explanation
+
+An interview may declare `echelle` in its frontmatter. It must be present in both
+languages or absent from both. `libelle` and `description` are required, non-blank
+strings within that object; translate both. The build publishes the localized
+object unchanged and omits it for interviews without this field.
+
+```yaml
+echelle:
+  libelle: Support in your account
+  description: Explain what the axis scores mean and their limitations.
+```
+
+A scale explanation does not validate a psychological construct or establish market
+demand. Ethos uses it to describe support in the person's account, including missing
+information and unverified records. Its synthetic evaluation cases and review
+criteria live in `fixtures/ethos/`; they are not observed outputs.
+
 ### Runtime tokens
 
 The interview template receives values injected on every turn. The vocabulary is **closed**, like
