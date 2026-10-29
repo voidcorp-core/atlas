@@ -2,6 +2,22 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
+## [3.0.1](https://github.com/voidcorp-core/atlas/compare/v3.0.0...v3.0.1) (2026-10-29)
+
+
+### Corrigé
+
+* **content:** correct unsupported claims and bilingual guidance ([8a24f7b](https://github.com/voidcorp-core/atlas/commit/8a24f7b7b13709e612beceae0d99c69771ee01b6))
+* **content:** keep contradiction follow-ups open ([4e85d2b](https://github.com/voidcorp-core/atlas/commit/4e85d2b8bafcb90c0501fde21ba3bacdda8b001a))
+* **registry:** integrate verified bilingual content and validation fixes ([#45](https://github.com/voidcorp-core/atlas/issues/45)) ([457d9ba](https://github.com/voidcorp-core/atlas/commit/457d9bad33bad5fefaafe66e4c67438b521fd3e1))
+* **workflow:** aligner le registre sur npm et contrôler les dépendances ([8dcb8e4](https://github.com/voidcorp-core/atlas/commit/8dcb8e429581d8ed0984536d0da023ae0c9e4204))
+
+
+### Documentation
+
+* pointer le README vers voidcorp-core/atlas ([74f42c3](https://github.com/voidcorp-core/atlas/commit/74f42c356c683eb537f32aee8f399dd894675702))
+* pointer le README vers voidcorp-core/atlas ([a281e62](https://github.com/voidcorp-core/atlas/commit/a281e6254183129c9bf8c1c09ee6c6eb362588d6))
+
 ## [3.0.0](https://github.com/atlas-registry/atlas/compare/v2.1.0...v3.0.0) (2026-08-28)
 
 
