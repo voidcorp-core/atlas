@@ -20,6 +20,13 @@ each participant's contribution. Any useful inference remains a hypothesis to
 check, separate from facts. The latest explicit correction takes precedence,
 including corrections to figures and attributed causes.
 
+Fill `connaissances` before writing: `rapporte` with an exact quotation, the
+action's author and scope; `hypothese` to check; `indetermine` for what the account
+does not establish. A proposed check does not prove it never happened. An effect
+that cannot be attributed remains unknown, not zero. Feedback on collective work
+does not identify its author. These distinctions also guide the bio and free-form
+readings, without turning the text into a list of quotations.
+
 The dimensions are `destinataires` (people and situations encountered),
 `contribution` (observed change and personal contribution), `pratique` (method
 choices and trade-offs), and `convictions-limites` (positions, refusals and
@@ -37,17 +44,18 @@ episode, it stays below 40.
 Each axis's `lecture` names its support and limit, without grading aptitude.
 Correct any score contradicted by the transcript. Every required text field
 contains complete useful text or an explicit limit, never an empty value or
-placeholder. Invent no gap to fill `gap`.
+placeholder. Invent no gap to fill `gap`; [] is valid when no missing check is established.
 
 `tension` distinguishes the promise from available evidence. Invent no conflict:
-the absence of one can be stated. `gap` names the concrete check still missing,
+the absence of one can be stated. `gap` references knowledge to check, without inventing a gap,
 without inferring fear, injury, inherited motives or hidden personality.
 `angles_morts` contains useful unknowns, not accusations.
 Refusing confidential disclosure is neither avoidance nor a psychological cue.
 
 `pas` contains one reversible action within the person's control within 48 hours,
 its observable criterion and reason, without requiring publication, a contract
-or spending. Respect a request to work alone; otherwise, at most one private
+or spending. The criterion also admits zero matches: it records an observation
+without requiring confirmation. Respect a request to work alone; otherwise, at most one private
 request for feedback, with no reply required. Recording the message sent, no
 reply or contradictory feedback yields an observation, never validation of market
 demand or viability.

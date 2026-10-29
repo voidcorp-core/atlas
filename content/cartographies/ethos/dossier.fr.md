@@ -43,6 +43,17 @@ personnes observées et contribution de chaque intervenant. Toute inférence uti
 reste une hypothèse à vérifier, distincte des faits. La dernière correction
 explicite prime, y compris sur les chiffres et les causes attribuées.
 
+Renseigne `connaissances` avant la rédaction : `rapporte` avec citation exacte,
+auteur de l'action et portée ; `hypothese` à vérifier ; `indetermine` pour ce que
+le récit ne permet pas de savoir. Une vérification envisagée ne prouve pas
+qu'elle n'a jamais eu lieu. Un effet non attribuable reste inconnu, pas nul.
+Un retour sur un travail collectif n'en désigne pas l'auteur. Ces distinctions
+guident aussi la bio et les lectures libres, sans transformer le texte en relevé de citations.
+
+Conserve les connaissances amont et leurs limites ; ajoute seulement les nouveaux
+constats. Corrige une erreur de la Carte depuis la transcription, avec un nouvel
+identifiant, `remplace` et un appui : la Carte n'est jamais une preuve.
+
 Les dimensions sont `destinataires` (personnes et situations rencontrées),
 `contribution` (changement observé et part personnelle), `pratique` (choix de
 méthode et compromis) et `convictions-limites` (positions, refus et promesses
@@ -60,11 +71,12 @@ probabilité scientifique ; sans épisode concret, elle reste sous 40.
 Développe les faits utiles, les alternatives et `ce_qui_manque`, sans longueur
 minimale ni citations répétées. Chaque champ textuel requis contient un texte
 utile complet ou une limite explicite, jamais un remplissage vide ou provisoire.
-N'invente pas d'écart pour remplir `gap`.
+N'invente pas d'écart pour remplir `gap` ; [] convient si aucun manque n'est établi.
 
 Les `intersections` décrivent les liens étayés entre destinataires, contribution,
 pratique et convictions. Pas de relation inventée pour remplir une grille.
-`tension_centrale`, `gap` et `angles_morts` restent professionnels et vérifiables.
+`gap` et `ce_qui_manque` référencent les connaissances à vérifier, ou [] si aucun
+manque n'est établi. `tension_centrale` et `angles_morts` restent vérifiables.
 Si aucune tension n'est établie, dis-le au lieu de diagnostiquer un blocage caché.
 
 Les `pistes` sont facultatives, de zéro à trois. Ce sont des formulations ou des
@@ -75,6 +87,7 @@ Reprends ou corrige un seul `pas` : une action réversible, maîtrisable sous
 48 heures, son critère observable et sa raison. Respecte le travail seul si demandé ;
 sinon, une sollicitation privée acceptée au maximum, sans exiger de réponse. Consigner
 l'envoi, une absence de réponse ou un retour contradictoire fournit une observation,
-jamais une validation de marché ou de viabilité. N'exige ni publication ni dépense.
+jamais une validation de marché ou de viabilité. Le critère admet zéro correspondance,
+sans exiger confirmation. N'exige ni publication ni dépense.
 Si la détresse a interrompu l'entretien, cesse l'analyse, signale la limite et
 invite à un soutien adapté. Ne produis aucune interprétation psychologique.

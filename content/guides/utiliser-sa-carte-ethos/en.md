@@ -1,6 +1,6 @@
 ---
 title: Write a professional introduction from one experience
-description: Use one specific episode to write an accurate introduction, show its supporting evidence and test what remains uncertain.
+description: Use your notes or Ethos Card and one specific episode to write an accurate introduction, show its supporting evidence and test what remains uncertain.
 ---
 
 # Explain why someone should choose you, without overpromising

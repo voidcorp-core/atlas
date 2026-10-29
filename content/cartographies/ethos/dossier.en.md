@@ -41,6 +41,17 @@ each participant's contribution. Any useful inference remains a hypothesis to
 check, separate from facts. The latest explicit correction takes precedence,
 including corrections to figures and attributed causes.
 
+Fill `connaissances` before writing: `rapporte` with an exact quotation, the
+action's author and scope; `hypothese` to check; `indetermine` for what the account
+does not establish. A proposed check does not prove it never happened. An effect
+that cannot be attributed remains unknown, not zero. Feedback on collective work
+does not identify its author. These distinctions also guide the bio and free-form
+readings, without turning the text into a list of quotations.
+
+Keep upstream knowledge and its limits; add only new observations. Correct a Card
+error from the transcript with a new identifier, `remplace` and supporting words:
+the Card is never evidence.
+
 The dimensions are `destinataires` (people and situations encountered),
 `contribution` (observed change and personal contribution), `pratique` (method
 choices and trade-offs), and `convictions-limites` (positions, refusals and
@@ -57,12 +68,14 @@ episode, it stays below 40.
 
 Develop useful facts, alternatives and `ce_qui_manque`, without a minimum length
 or repeated quotations. Every required text field contains complete useful text
-or an explicit limit, never an empty value or placeholder. Invent no gap to fill `gap`.
+or an explicit limit, never an empty value or placeholder. Invent no gap to fill
+`gap`; [] is valid when no missing check is established.
 
 `intersections` describe supported links between audience, contribution, practice
-and convictions. Invent no connection to fill a grid. `tension_centrale`, `gap`
-and `angles_morts` remain professional and testable. If no tension is established,
-say so instead of diagnosing a hidden blockage.
+and convictions. Invent no connection to fill a grid. `gap` and `ce_qui_manque`
+reference knowledge to check, or [] when no missing check is established.
+`tension_centrale` and `angles_morts` remain professional and testable. If no
+tension is established, say so instead of diagnosing a hidden blockage.
 
 `pistes` are optional, from zero to three. They are concrete formulations or checks,
 not prescribed careers. Each states what supports it and what would disqualify it.
@@ -72,6 +85,7 @@ Keep or correct one `pas`: a reversible action within the person's control withi
 48 hours, its observable criterion and reason. Respect a request to work alone;
 otherwise, at most one agreed private request for feedback, with no reply required.
 Recording the message sent, no reply or contradictory feedback yields an observation,
-never validation of market demand or viability. Require no publication or spending.
+never validation of market demand or viability. The criterion admits zero matches
+without requiring confirmation. Require no publication or spending.
 If distress interrupted the interview, stop the analysis, state the limit and
 suggest appropriate support. Produce no psychological interpretation.

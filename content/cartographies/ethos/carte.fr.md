@@ -20,6 +20,13 @@ personnes observées et contribution de chaque intervenant. Toute inférence uti
 reste une hypothèse à vérifier, distincte des faits. La dernière correction
 explicite prime, y compris sur les chiffres et les causes attribuées.
 
+Renseigne `connaissances` avant la rédaction : `rapporte` avec citation exacte,
+auteur de l'action et portée ; `hypothese` à vérifier ; `indetermine` pour ce que
+le récit ne permet pas de savoir. Une vérification envisagée ne prouve pas
+qu'elle n'a jamais eu lieu. Un effet non attribuable reste inconnu, pas nul.
+Un retour sur un travail collectif n'en désigne pas l'auteur. Ces distinctions
+guident aussi la bio et les lectures libres, sans transformer le texte en relevé de citations.
+
 Les dimensions sont `destinataires` (personnes et situations rencontrées),
 `contribution` (changement observé et part personnelle), `pratique` (choix de
 méthode et compromis) et `convictions-limites` (positions, refus et promesses
@@ -37,16 +44,18 @@ probabilité scientifique ; sans épisode concret, elle reste sous 40.
 La `lecture` de chaque axe nomme son appui et sa limite, sans note d'aptitude.
 Corrige tout score contredit par la transcription. Chaque champ textuel requis
 contient un texte utile complet ou une limite explicite, jamais un remplissage
-vide ou provisoire. N'invente pas d'écart pour remplir `gap`.
+vide ou provisoire. N'invente pas d'écart pour remplir `gap` ; [] convient si aucun
+manque n'est établi.
 
 `tension` distingue promesse et éléments disponibles. Ne fabrique aucune
-contradiction : leur absence peut être dite. `gap` nomme la vérification concrète
-qui manque, sans inférer de peur, blessure, héritage ou personnalité cachée.
+contradiction : leur absence peut être dite. `gap` référence les connaissances
+à vérifier, sans inventer de manque, peur, blessure, héritage ou personnalité cachée.
 `angles_morts` contient uniquement les inconnues utiles, pas des reproches.
 Un refus de divulgation confidentielle n'est ni évitement ni indice psychologique.
 
 `pas` contient une seule action réversible, maîtrisable dans les 48 heures,
 son critère observable et sa raison, sans publication, contrat ou dépense exigés.
+Le critère admet aussi zéro correspondance : il constate, sans exiger confirmation.
 Respecte le travail seul si demandé ; sinon, une sollicitation privée au maximum,
 sans exiger de réponse. Consigner l'envoi, une absence de réponse ou un retour
 contradictoire fournit une observation, jamais une validation de marché ou de viabilité.

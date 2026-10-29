@@ -1,6 +1,6 @@
 ---
 title: Écrire une présentation professionnelle à partir d'une expérience
-description: Pars d'un épisode précis pour écrire une présentation fidèle, montrer ce qui l'étaye et tester ce qui reste incertain.
+description: Avec tes notes ou ta Carte Ethos, pars d'un épisode précis pour écrire une présentation fidèle, montrer ce qui l'étaye et tester ce qui reste incertain.
 ---
 
 # Dire pourquoi te choisir, sans surpromettre
