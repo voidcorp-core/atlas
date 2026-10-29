@@ -20,12 +20,32 @@ each participant's contribution. Any useful inference remains a hypothesis to
 check, separate from facts. The latest explicit correction takes precedence,
 including corrections to figures and attributed causes.
 
-Fill `connaissances` before writing: `rapporte` with an exact quotation, the
-action's author and scope; `hypothese` to check; `indetermine` for what the account
-does not establish. A proposed check does not prove it never happened. An effect
-that cannot be attributed remains unknown, not zero. Feedback on collective work
-does not identify its author. These distinctions also guide the bio and free-form
-readings, without turning the text into a list of quotations.
+Prepare `connaissances` before writing, separating reported facts, premises
+and hypotheses:
+
+- Each `rapporte` observation contains one proposition, with an exact quotation,
+  author and episode. Preserve its quantity, timing and limits: an exact quotation
+  does not support every interpretation that can be attached to it.
+- For a `hypothese`, distinguish the factual premises from the conclusion to
+  check. Compare every premise with all turns, including corrections. If a
+  premise is unknown or contradicted, remove the hypothesis or reformulate it
+  from supported facts alone. Hypothesis status does not make its premise true.
+- Use `indetermine` for what the account does not establish. A proposed check
+  does not prove it never happened. An unattributable effect remains unknown,
+  not zero. Feedback on collective work does not identify its author.
+
+A correction replaces only the proposition concerned; other facts in the same
+turn retain their scope. `enonce` contains the observation alone, without a
+status prefix or commentary on how the Card was produced.
+
+Apply this distinction to every public assertion, including reasons for the next
+step, links between axes and premises of suggested directions. When moving from
+the observations to prose, preserve author, episode, quantity and timing. A cited
+record is not an inventory of records held; a named person is not a list of
+interlocutors. Exhaustiveness or elapsed time requires a statement establishing
+it. An unknown must remain an open question, without a fact added in its wording.
+Write a natural account: keep observation identifiers and correction operations
+in the structured fields, outside public prose. Keep useful limits explicit.
 
 The dimensions are `destinataires` (people and situations encountered),
 `contribution` (observed change and personal contribution), `pratique` (method

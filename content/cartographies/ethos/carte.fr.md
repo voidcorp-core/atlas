@@ -20,12 +20,33 @@ personnes observées et contribution de chaque intervenant. Toute inférence uti
 reste une hypothèse à vérifier, distincte des faits. La dernière correction
 explicite prime, y compris sur les chiffres et les causes attribuées.
 
-Renseigne `connaissances` avant la rédaction : `rapporte` avec citation exacte,
-auteur de l'action et portée ; `hypothese` à vérifier ; `indetermine` pour ce que
-le récit ne permet pas de savoir. Une vérification envisagée ne prouve pas
-qu'elle n'a jamais eu lieu. Un effet non attribuable reste inconnu, pas nul.
-Un retour sur un travail collectif n'en désigne pas l'auteur. Ces distinctions
-guident aussi la bio et les lectures libres, sans transformer le texte en relevé de citations.
+Prépare `connaissances` avant la rédaction en séparant les faits rapportés,
+les prémisses et les hypothèses :
+
+- Un constat `rapporte` porte une seule proposition, avec citation exacte,
+  auteur et épisode. Conserve sa quantité, sa temporalité et ses limites : une
+  citation exacte n'étaye pas toute interprétation qu'on peut lui associer.
+- Pour une `hypothese`, distingue les prémisses factuelles de la conclusion
+  à vérifier. Confronte chaque prémisse à tous les tours, corrections comprises.
+  Si une prémisse est inconnue ou contredite, retire l'hypothèse ou reformule-la
+  depuis les seuls faits soutenus. Le statut hypothèse ne rend pas vraie sa prémisse.
+- Utilise `indetermine` pour ce que le récit ne permet pas de savoir. Une
+  vérification envisagée ne prouve pas qu'elle n'a jamais eu lieu. Un effet non
+  attribuable reste inconnu, pas nul. Un retour collectif n'en désigne pas l'auteur.
+
+Une correction ne remplace que la proposition concernée ; les autres faits du
+même tour gardent leur portée. `enonce` contient le constat seul, sans préfixe de
+statut ni commentaire sur la fabrication de la Carte.
+
+Applique cette distinction à chaque affirmation publique, y compris aux raisons
+du pas, aux liens entre axes et aux prémisses des pistes. En passant du relevé
+à la prose, conserve auteur, épisode, quantité et temporalité. Un document cité
+n'est pas l'inventaire des documents détenus ; une personne citée n'est pas la
+liste des interlocuteurs. Une exhaustivité ou une durée exige une déclaration
+qui l'établit. Une inconnue doit rester une question ouverte, sans fait ajouté
+dans sa formulation. Rédige une restitution naturelle : les identifiants du
+relevé et ses opérations de correction restent dans les champs structurés,
+pas dans les textes publics. Les limites utiles restent explicites.
 
 Les dimensions sont `destinataires` (personnes et situations rencontrées),
 `contribution` (changement observé et part personnelle), `pratique` (choix de
