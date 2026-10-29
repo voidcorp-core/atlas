@@ -1,79 +1,44 @@
 ---
-title: Finding Your Entrepreneurial Ikigai with AI
-description: Use AI to explore your professional reason for being and align your skills, passions, and market opportunities.
+title: Exploring Your Direction with the Alignment Diagnostic
+description: Understand what the Cartographie can clarify, what it does not measure, and how to test the next step it proposes.
 ---
 
-# Finding Your Entrepreneurial Ikigai with AI
+# Exploring Your Direction with the Alignment Diagnostic
 
-Ikigai is a Japanese concept meaning "reason for being". For an entrepreneur, it is the intersection of:
+You may enjoy an activity without earning from it, perform a job well without enjoying your days, or find the work useful without wanting to continue in the same way. The Alignment Diagnostic explores these gaps through situations you describe.
 
-- What you **love** to do
-- What you are **good** at
-- What you can be **paid** for
-- What the **world needs**
+This page's address recalls the former "Ikigai" content. The current Cartographie has a different name: it uses four exploratory axes, not an ikigai test or a clinical measure. The diagram's attribution is provided on its page.
 
-## Why It Matters
+## What the Interview Looks For
 
-Most entrepreneurs fail not from a lack of skills, but from a lack of alignment. They build projects that do not match their zone of genius, or that do not address a real market need.
+Four questions organize the exploration: what you enjoy doing, what you do well, the needs you want to contribute to, and what you are or could be paid for.
 
-Ikigai helps you find that alignment **before** committing to a project.
+The answers are not a verdict on your personality. A useful interpretation should connect to a specific episode, remain open to your corrections, and acknowledge missing evidence. You can say that the proposed reading does not fit.
 
-## How AI Can Help You
+## Start with What You Already Know
 
-AI excels at guided introspection. It can:
+No document needs preparing. Answer the opening question with a real situation. During the interview, prefer an observable event to a general definition of yourself: what you did, with whom, and what happened.
 
-1. **Ask the right questions** -- questions you would not have asked yourself
-2. **Synthesize your answers** -- identify patterns in what you say
-3. **Challenge your assumptions** -- push you to go deeper
-4. **Structure your thinking** -- turn vague ideas into actionable clarity
+For example, "I enjoy teaching" provides little to examine. "I spent an afternoon explaining this problem to a colleague and wanted to do it again" gives a situation to explore. One episode alone does not establish a vocation.
 
-## The 4-Step Process
+[Start the Alignment Diagnostic](/en/cartographies/diagnostic-alignement)
 
-### Step 1: Preparation
+## Read the Card and Report
 
-Before launching the prompt, take 10 minutes to write down:
-- Your 3 most recent meaningful professional experiences
-- What frustrates you in your field
-- What people often ask you for help with
+The Card returns a statement, the gap identified and **one next step**. The Report develops that reading using interview evidence and its blind spots. You do not need to ask the AI for another summary or a list of actions.
 
-### Step 2: Launch the Ikigai Prompt
+While reading, check three things:
 
-Use the "Ikigai - Archaeology of Meaning" prompt available on Atlas. This prompt is designed for deep and structured exploration.
+- Do the facts and quotations match what you actually said?
+- Is an interpretation presented as certain when other explanations remain possible?
+- Does the next step fit your constraints and help test the interpretation?
 
--> [Take the Alignment Diagnostic Cartographie](/en/cartographies/diagnostic-alignement)
+A displayed score organizes the output; it does not prove an aptitude or a professional direction.
 
-### Step 3: Dialogue with the AI
+## Test the Next Step
 
-Do not settle for a single answer. Ikigai emerges from dialogue:
-- Ask for clarifications
-- Challenge the AI's suggestions
-- Dig deeper into the leads that resonate
+Keep one action, doable within 48 hours, with an observable result. For example: ask a colleague about a situation in which you helped them, then record what supports and what contradicts your interpretation. The action must fit your interview, not an example imposed on your life.
 
-### Step 4: Synthesize
+The aim is not to confirm the Card at all costs. If the experience contradicts it, you have learned something. It does not by itself justify a hard-to-reverse decision such as leaving a job.
 
-At the end of the exchange, ask the AI to summarize:
-- Your Ikigai in one sentence
-- 3 concrete actions to move closer to it
-- The signals that will confirm you are on the right path
-
-## Common Mistakes to Avoid
-
-**Answering too quickly** -- Take the time to think about each question
-
-**Looking for THE right answer** -- Ikigai evolves with you
-
-**Ignoring uncomfortable answers** -- The truth often hides there
-
-**Not taking action** -- An untested Ikigai remains a theory
-
-## Going Further
-
-Once your Ikigai is identified, explore these complementary prompts:
-
-- **Your Zone of Genius** -- To deepen your unique strengths
-- **Your Inner Saboteur** -- To identify what holds you back
-- **Letter from Your Future Self** -- To visualize your path
-
----
-
-*This guide is part of the Entrepreneur Introspection series on Atlas.*
+The Cartographie supports reflection on professional direction. If distress exceeds that scope, the interview does not replace appropriate professional support.

@@ -1,49 +1,49 @@
 ---
-title: Transformer ses reunions en actions concretes
-description: Le guide pour ne plus sortir de reunion en se demandant qui fait quoi.
+title: Transformer ses réunions en actions concrètes
+description: Le guide pour ne plus sortir de réunion en se demandant qui fait quoi.
 ---
 
-# Transformer ses reunions en actions concretes
+# Transformer ses réunions en actions concrètes
 
-Combien de reunions se terminent par "on en reparle" sans que rien ne se passe ? Le probleme n'est pas la reunion elle-meme. C'est l'absence de methode pour capturer et suivre les decisions.
+Combien de réunions se terminent par "on en reparle" sans que rien ne se passe ? Le problème n'est pas la réunion elle-même. C'est l'absence de méthode pour capturer et suivre les décisions.
 
-Une reunion sans action items clairs est une reunion inutile.
+Une réunion sans action items clairs est une réunion inutile.
 
 ## Pourquoi c'est important
 
-Les reunions coutent cher. Une reunion d'une heure avec 4 personnes a 50EUR/h coute 200EUR. Si rien de concret n'en sort, c'est 200EUR brules. Multiplie par le nombre de reunions par semaine, et tu comprends pourquoi la productivite stagne.
+Les réunions coûtent cher. Une réunion d'une heure avec 4 personnes à 50EUR/h coûte 200EUR. Si rien de concret n'en sort, c'est 200EUR brûlés. Multiplie par le nombre de réunions par semaine, et tu comprends pourquoi la productivité stagne.
 
 ## Le processus
 
-### Etape 1 -- Preparer avant la reunion
+### Étape 1 -- Préparer avant la réunion
 
-Chaque reunion doit avoir un objectif ecrit et un ordre du jour envoye en amont. Si tu ne peux pas ecrire l'objectif en une phrase, la reunion n'est pas necessaire.
+Chaque réunion doit avoir un objectif écrit et un ordre du jour envoyé en amont. Si tu ne peux pas écrire l'objectif en une phrase, la réunion n'est pas nécessaire.
 
-### Etape 2 -- Capturer pendant la reunion
+### Étape 2 -- Capturer pendant la réunion
 
-Designe un preneur de notes (ou utilise l'IA pour transcrire). Capture uniquement : les decisions prises, les action items, les questions ouvertes. Pas besoin de retranscrire toute la discussion.
+Désigne un preneur de notes (ou utilise l'IA pour transcrire). Capture uniquement : les décisions prises, les action items, les questions ouvertes. Pas besoin de retranscrire toute la discussion.
 
-### Etape 3 -- Formaliser les action items
+### Étape 3 -- Formaliser les action items
 
 Chaque action item suit le format : QUI fait QUOI pour QUAND. "On devrait revoir le pricing" n'est pas un action item. "Marc propose 3 options de pricing pour vendredi 14h" en est un.
 
-### Etape 4 -- Suivre l'execution
+### Étape 4 -- Suivre l'exécution
 
-Envoie le compte-rendu dans les 15 minutes suivant la reunion. A la reunion suivante, commence par la revue des actions de la derniere fois. Pas de suivi = pas d'execution.
+Envoie le compte-rendu dans les 15 minutes suivant la réunion. À la réunion suivante, commence par la revue des actions de la dernière fois. Pas de suivi = pas d'exécution.
 
 ## Erreurs courantes
 
-- Reunion sans ordre du jour : tu perds 15 minutes a trouver le sujet
-- Action items sans proprietaire : "on" ne fait jamais rien
-- Pas de deadline : une action sans date est un voeu pieux
-- Envoyer le CR 3 jours plus tard : le contexte est deja oublie
+- Réunion sans ordre du jour : tu perds 15 minutes à trouver le sujet
+- Action items sans propriétaire : "on" ne fait jamais rien
+- Pas de deadline : une action sans date est un vœu pieux
+- Envoyer le CR 3 jours plus tard : le contexte est déjà oublié
 
 ## Aller plus loin
 
-Utilise le prompt Atlas dedie pour extraire des actions concretes de tes notes de reunion :
+Utilise le prompt Atlas dédié pour extraire des actions concrètes de tes notes de réunion :
 
 [Meeting to Actions](/prompts/meeting_to_actions)
 
 ---
 
-*Ce guide fait partie de la serie Productivite Builder sur Atlas.*
+*Ce guide fait partie de la série Productivité Builder sur Atlas.*

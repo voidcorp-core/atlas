@@ -5,17 +5,17 @@
   "type": "module",
   "description": "Registre de contenu Atlas : prompts, outils et guides bilingues",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "scripts": {
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
-    "check": "pnpm run validate && pnpm run build && node scripts/check-artifacts.mjs",
+    "check": "npm run validate && npm run build && node scripts/check-artifacts.mjs",
     "comparer": "node scripts/comparer.mjs"
   },
   "dependencies": {
     "yaml": "^2.9.0",
-    "zod": "^4.1.13"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@ai-sdk/anthropic": "^4.0.40",

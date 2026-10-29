@@ -1,79 +1,44 @@
 ---
-title: Trouver ton Ikigai entrepreneurial avec l'IA
-description: Utilise l'IA pour explorer ta raison d'être professionnelle et aligner tes compétences, passions et opportunités de marché.
+title: Explorer son orientation avec le Diagnostic d’alignement
+description: Comprends ce que la Cartographie peut éclairer, ce qu’elle ne mesure pas et comment éprouver le prochain pas qu’elle propose.
 ---
 
-# Trouver ton Ikigai entrepreneurial avec l'IA
+# Explorer son orientation avec le Diagnostic d’alignement
 
-L'Ikigai est un concept japonais qui signifie "raison d'être". Pour un entrepreneur, c'est l'intersection entre :
+Tu peux aimer une activité sans en vivre, savoir la faire sans aimer tes journées, ou trouver un travail utile sans vouloir continuer ainsi. Le Diagnostic d’alignement explore ces écarts à partir de situations que tu racontes.
 
-- Ce que tu **aimes** faire
-- Ce dans quoi tu es **doué**
-- Ce pour quoi tu peux être **payé**
-- Ce dont le **monde a besoin**
+Le nom de cette page rappelle l’ancien contenu « Ikigai ». La Cartographie actuelle porte un autre nom : elle utilise quatre axes d’exploration, pas un test d’ikigai ni une mesure clinique. L’attribution du diagramme est indiquée sur sa page.
 
-## Pourquoi c'est important
+## Ce que l’entretien cherche
 
-La plupart des entrepreneurs échouent non pas par manque de compétences, mais par manque d'alignement. Ils construisent des projets qui ne correspondent pas à leur zone de génie, ou qui ne répondent pas à un vrai besoin du marché.
+Quatre questions organisent l’exploration : ce que tu aimes faire, ce que tu sais bien faire, les besoins auxquels tu veux contribuer et ce pour quoi tu es payé ou pourrais l’être.
 
-L'Ikigai permet de trouver cet alignement **avant** de s'engager dans un projet.
+Les réponses ne forment pas un verdict sur ta personnalité. Une interprétation utile doit pouvoir être reliée à un épisode précis, corrigée par toi et confrontée à ce qui manque. Tu peux dire que la lecture proposée ne te correspond pas.
 
-## Comment l'IA peut t'aider
+## Commencer avec ce que tu sais déjà
 
-L'IA excelle dans l'introspection guidée. Elle peut :
+Tu n’as pas de document à préparer. Réponds à la question d’ouverture avec une situation réelle. Au fil de l’entretien, privilégie un événement observable à une définition générale de toi-même : ce que tu as fait, avec qui, et ce qui s’est passé.
 
-1. **Poser les bonnes questions** — des questions que tu ne te serais pas posées seul
-2. **Synthétiser tes réponses** — identifier des patterns dans ce que tu dis
-3. **Challenger tes hypothèses** — te forcer à aller plus profond
-4. **Structurer ta réflexion** — transformer des idées floues en clarté actionnable
+Par exemple, « j’aime transmettre » donne peu de prise. « J’ai passé une après-midi à expliquer ce problème à une collègue, et j’avais envie de recommencer » apporte une situation à examiner. Un seul épisode ne suffit pas à en tirer une vocation.
 
-## Le processus en 4 étapes
+[Commencer le Diagnostic d’alignement](/cartographies/diagnostic-alignement)
 
-### Étape 1 : Préparation
+## Lire la Carte et le Dossier
 
-Avant de lancer le prompt, prends 10 minutes pour noter :
-- Tes 3 dernières expériences professionnelles marquantes
-- Ce qui t'énerve dans ton domaine
-- Ce que les gens te demandent souvent de l'aide
+La Carte restitue une phrase, l’écart repéré et **un seul prochain pas**. Le Dossier développe cette lecture avec les éléments de l’entretien et ses angles morts. Tu n’as pas à demander une seconde synthèse ni une liste d’actions à l’IA.
 
-### Étape 2 : Lancer le prompt Ikigai
+À la lecture, vérifie trois choses :
 
-Utilise le prompt "Ikigai - Archéologie de Sens" disponible sur Atlas. Ce prompt est conçu pour une exploration profonde et structurée.
+- Les faits et les citations correspondent-ils à ce que tu as réellement dit ?
+- Une interprétation est-elle présentée comme certaine alors que d’autres explications restent possibles ?
+- Le prochain pas est-il proportionné à tes contraintes et utile pour vérifier la lecture ?
 
-👉 [Faire la Cartographie Diagnostic d'alignement](/cartographies/diagnostic-alignement)
+Un score affiché organise la restitution ; il ne prouve ni une aptitude ni une orientation professionnelle.
 
-### Étape 3 : Dialoguer avec l'IA
+## Éprouver le prochain pas
 
-Ne te contente pas d'une seule réponse. L'Ikigai émerge du dialogue :
-- Demande des clarifications
-- Challenge les suggestions de l'IA
-- Approfondis les pistes qui résonnent
+Garde une seule action, réalisable dans les 48 heures, avec un résultat observable. Par exemple : demander à une collègue un retour sur une situation où tu l’as aidée, puis noter ce qu’elle confirme et ce qui contredit ton interprétation. L’action doit correspondre à ton entretien, pas à un exemple plaqué sur ta vie.
 
-### Étape 4 : Synthétiser
+Le but n’est pas de confirmer la Carte à tout prix. Si l’expérience la contredit, tu as appris quelque chose. Elle ne justifie pas à elle seule une décision difficile à inverser, comme quitter un emploi.
 
-À la fin de l'échange, demande à l'IA de résumer :
-- Ton Ikigai en une phrase
-- Les 3 actions concrètes pour t'en rapprocher
-- Les signaux qui confirmeront que tu es sur la bonne voie
-
-## Erreurs courantes à éviter
-
-❌ **Répondre trop vite** — Prends le temps de réfléchir à chaque question
-
-❌ **Chercher LA bonne réponse** — L'Ikigai évolue avec toi
-
-❌ **Ignorer les réponses inconfortables** — C'est souvent là que se cache la vérité
-
-❌ **Ne pas passer à l'action** — Un Ikigai non testé reste une théorie
-
-## Aller plus loin
-
-Une fois ton Ikigai identifié, explore ces prompts complémentaires :
-
-- **Ta Zone de Génie** — Pour approfondir tes forces uniques
-- **Ton Saboteur Interne** — Pour identifier ce qui te bloque
-- **Lettre de ton Futur Toi** — Pour visualiser ton chemin
-
----
-
-*Ce guide fait partie de la série Introspection Entrepreneur sur Atlas.*
+La Cartographie accompagne une réflexion sur l’orientation. Si une souffrance dépasse ce cadre, l’entretien ne remplace pas un soutien professionnel adapté.

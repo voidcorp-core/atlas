@@ -1,56 +1,52 @@
 ---
 title: Understanding and Calculating Unit Economics
-description: The guide to mastering the metrics that determine if your business is viable or doomed.
+description: Calculate what each customer contributes, distinguish revenue from margin, and identify missing inputs before deciding.
 ---
 
 # Understanding and Calculating Unit Economics
 
-You have revenue. You have growth. You might even have funding. But do you actually make money on each customer? Unit economics answers the question that vanity metrics hide: is every new customer making you richer or poorer?
+Growing revenue does not tell you what remains after acquiring and serving customers. Unit economics help answer that question when the costs, period and assumptions are explicit. They do not replace cash-flow monitoring.
 
-## Why It Matters
+## 1. Define the scope before calculating
 
-Growth without healthy unit economics is just accelerated cash burn. Acquiring customers at a loss and hoping to "make it up in volume" has killed more startups than bad products. Unit economics tell you whether your business model fundamentally works -- before you scale it.
+Choose a period and a group of comparable customers. Separate acquisition spending, service costs and other expenses. An average cost per customer is not necessarily variable: a hosting subscription may stay fixed until the next capacity tier.
 
-Investors increasingly ask about unit economics early. Not because they are conservative, but because they have seen too many companies scale unprofitable models off a cliff.
+Classify each cost once within the calculation concerned. Mark missing spending as unknown, never zero. Keep observed inputs separate from hypothetical scenarios.
 
-## The Process
+## 2. Calculate full CAC
 
-### Step 1: Calculate Customer Acquisition Cost (CAC)
+**CAC = sales and marketing spending / new customers acquired.** Include advertising, salaries or acquisition time, contractors and relevant tools. Check that the period reflects your sales cycle.
 
-CAC = total sales and marketing spend / number of new customers acquired in the same period. Include everything: ad spend, salaries, tools, agency fees, content production. Blended CAC (all channels combined) is useful for the big picture. Per-channel CAC tells you where to invest and where to cut.
+Dividing advertising spend alone by all new customers gives neither full CAC nor advertising-channel CAC. If no customers were acquired, CAC for that period is not calculable.
 
-### Step 2: Calculate Lifetime Value (LTV)
+## 3. Calculate gross-margin LTV
 
-LTV = average revenue per customer per month x gross margin x average customer lifespan in months. For subscription businesses: LTV = ARPU x gross margin / monthly churn rate. The key is using gross margin, not revenue -- you need to account for the cost of delivering your product.
+Here, LTV means expected margin over the customer relationship, not accumulated revenue.
 
-### Step 3: Calculate the LTV/CAC Ratio
+**Monthly gross profit per customer = monthly revenue per customer - monthly service costs per customer.**
 
-The golden ratio. LTV/CAC should be at least 3:1 for a healthy business. Below 3:1, you are spending too much to acquire or not retaining long enough. Above 5:1, you might be under-investing in growth. The ratio tells you if your growth engine is sustainable.
+For comparable customers with positive, constant monthly customer churn and stable margin, excluding expansion:
 
-### Step 4: Calculate Payback Period
+**Gross-margin LTV ≈ monthly gross profit per customer / monthly customer churn.**
 
-Payback period = CAC / (ARPU x gross margin). This tells you how many months it takes to recover the cost of acquiring a customer. Under 12 months is healthy for most SaaS. Over 18 months means your cash flow will be under pressure as you grow.
+Fictional example: EUR 100 monthly revenue, EUR 40 service costs and 5% churn give EUR 60 margin, then estimated LTV of 60 / 0.05 = EUR 1,200. This does not establish that customers will actually stay twenty months. With little history or zero churn, do not report infinite LTV: examine cumulative margins for observed cohorts.
 
-### Step 5: Track Over Time
+## 4. Calculate payback
 
-Unit economics are not static. Track CAC, LTV, LTV/CAC, and payback period monthly. Improving unit economics while growing is the sign of a strong business. Deteriorating unit economics while growing is a warning signal that demands immediate attention.
+**Gross-margin payback = CAC / monthly gross profit per customer.** In the fictional example, full CAC of EUR 300 gives 300 / 60 = 5 months. LTV/CAC is 1,200 / 300 = 4.
 
-## Common Mistakes
+These results depend on the assumptions above. They neither prove overall profitability nor justify increasing acquisition spending on their own. Compare payback with available cash and observed retention. Zero or negative margin gives no finite payback under this calculation.
 
-**Excluding costs from CAC** -- if you do not count your sales team's salaries, your CAC is a fantasy.
+## 5. Keep break-even separate
 
-**Using revenue instead of gross margin for LTV** -- revenue-based LTV overstates the value of each customer by ignoring delivery costs.
+**Customers needed = monthly fixed costs / (monthly revenue per customer - monthly variable cost per customer)**, rounded up.
 
-**Calculating LTV with projected churn instead of actual churn** -- use real data, not aspirational numbers.
+Fixed costs must not already have been deducted in the denominator. Separate fixed from variable costs rather than automatically reusing the gross profit calculated above. Zero or negative contribution gives no finite break-even under this formula. If costs are missing, leave the result not calculable.
 
-**Ignoring cohort analysis** -- blended metrics hide trends. Your January cohort and your June cohort might have completely different economics.
+## The next useful check
 
-## Going Further
+Repeat the calculations with less favorable churn or acquisition cost, without presenting the scenario as a forecast. For example, reducing churn from 4% to 2.5% multiplies LTV by 1.6 at unchanged margin, not by two. Then identify the missing input most likely to change your decision.
 
-Use the Atlas prompt to calculate and analyze your unit economics with detailed breakdowns, benchmarks, and improvement recommendations.
+For more on revenue versus margin in CAC recovery: [SaaS Metrics Framework, Updata Partners](https://updata.com/white-paper/saas-metrics-framework/). Its proposed thresholds are not universal verdicts.
 
--> [Unit Economics Calculator](/prompts/unit_economics_calculator)
-
----
-
-*This guide is part of the Business Builder series on Atlas.*
+[Calculate with the Unit Economics Calculator prompt](/en/prompts/unit_economics_calculator)

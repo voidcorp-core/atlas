@@ -1,51 +1,52 @@
 ---
 title: Comprendre et calculer ses unit economics
-description: Le guide pour maitriser les metriques qui determinent si ton business est viable ou condamne.
+description: Calcule ce que chaque client rapporte, distingue revenus et marge, et repère les données qui manquent avant de décider.
 ---
 
 # Comprendre et calculer ses unit economics
 
-Ton business fait du chiffre d'affaires. Mais est-ce qu'il gagne de l'argent par client ? C'est la question fondamentale des unit economics. Un CA en croissance avec des unit economics negatifs, c'est un bateau qui coule plus vite a mesure qu'il accelere.
+Un chiffre d'affaires qui augmente ne dit pas ce qu'il reste après avoir acquis et servi les clients. Les unit economics servent à éclairer cette question, à condition de préciser les coûts, la période et les hypothèses. Elles ne remplacent pas le suivi de trésorerie.
 
-## Pourquoi c'est important
+## 1. Définir le périmètre avant de calculer
 
-Les unit economics te disent si chaque nouveau client te rapproche de la rentabilite ou t'en eloigne. Sans cette clarte, tu peux depenser 100EUR pour acquerir un client qui n'en rapportera que 50. Et croire que ca ira mieux "avec le volume". Ca n'ira pas mieux.
+Choisis une période et un groupe de clients comparables. Sépare les dépenses d'acquisition, les coûts de service et les autres charges. Un coût moyen par client n'est pas forcément variable : un abonnement serveur peut rester fixe jusqu'au prochain palier.
 
-## Le processus
+Classe chaque coût une seule fois dans le calcul concerné. Si une dépense manque, note « inconnue », jamais zéro. Distingue aussi les chiffres observés des scénarios que tu veux tester.
 
-### Etape 1 -- Calculer le CAC (cout d'acquisition client)
+## 2. Calculer un CAC complet
 
-CAC = total des depenses marketing et commerciales / nombre de nouveaux clients sur la meme periode. Inclus tout : publicite, salaires commerciaux, outils, temps passe. Le CAC reel est toujours plus eleve que le CAC percu.
+**CAC = dépenses de vente et marketing / nouveaux clients acquis.** Inclus la publicité, les salaires ou le temps consacré à l'acquisition, les prestataires et les outils concernés. Vérifie que la période reflète ton cycle de vente.
 
-### Etape 2 -- Calculer la LTV (valeur vie client)
+Diviser seulement les dépenses publicitaires par tous les nouveaux clients ne donne ni un CAC complet ni celui du canal publicitaire. Sans nouveaux clients, le CAC de la période n'est pas calculable.
 
-LTV = revenu moyen par client par mois x duree de vie moyenne du client en mois. Pour un SaaS a 50EUR/mois avec un churn de 5%/mois, la duree de vie moyenne est de 20 mois et la LTV est de 1000EUR.
+## 3. Calculer une LTV sur marge
 
-### Etape 3 -- Calculer le ratio LTV/CAC
+Ici, la LTV désigne la marge attendue sur la durée de la relation, pas le chiffre d'affaires cumulé.
 
-C'est le ratio roi. En dessous de 1, tu perds de l'argent sur chaque client. Entre 1 et 3, c'est fragile. Au-dessus de 3, ton modele est sain. Au-dessus de 5, tu sous-investis probablement en acquisition.
+**Marge mensuelle par client = revenu mensuel par client - coûts de service mensuels par client.**
 
-### Etape 4 -- Calculer le payback period
+Pour des clients comparables, avec une marge et un churn clients mensuel positifs et constants, sans expansion :
 
-Payback = CAC / revenu mensuel par client. C'est le nombre de mois pour rembourser le cout d'acquisition. En dessous de 12 mois, c'est sain. Au-dessus de 18 mois, tu as un probleme de tresorerie meme si la LTV est bonne.
+**LTV sur marge ≈ marge mensuelle par client / churn clients mensuel.**
 
-### Etape 5 -- Calculer la marge brute par client
+Exemple fictif : 100 euros de revenu mensuel, 40 euros de coûts de service et 5 % de churn donnent une marge de 60 euros, puis une LTV estimée de 60 / 0,05 = 1 200 euros. Ce calcul n'établit pas que les clients resteront effectivement vingt mois. Avec peu d'historique ou un churn nul, ne produis pas une LTV infinie : examine les marges cumulées des cohortes observées.
 
-Revenu par client moins les couts variables (hebergement, support, couts de livraison). Si ta marge brute est inferieure a 60% en SaaS ou 30% en e-commerce, tes unit economics sont structurellement fragiles.
+## 4. Calculer le délai de récupération
 
-## Erreurs courantes
+**Délai sur marge = CAC / marge mensuelle par client.** Dans l'exemple fictif, un CAC complet de 300 euros donne 300 / 60 = 5 mois. Le ratio LTV/CAC vaut 1 200 / 300 = 4.
 
-- Oublier les couts caches dans le CAC : le temps fondateur consacre a la vente est un cout, meme s'il n'apparait pas en comptabilite
-- Surestimer la LTV en ignorant le churn : un churn de 5%/mois divise par 2 la LTV que tu imagines
-- Comparer son ratio LTV/CAC avec des benchmarks hors contexte : un ratio de 5 en B2C n'a pas la meme signification qu'en B2B enterprise
-- Ne calculer ses unit economics qu'une fois : ces metriques doivent etre suivies mensuellement
+Ces résultats dépendent des hypothèses précédentes. Ils ne prouvent pas la rentabilité globale et ne suffisent pas pour augmenter le budget d'acquisition. Compare le délai à ta trésorerie et à la rétention observée. Si la marge est nulle ou négative, ce calcul ne donne aucun délai fini de récupération.
 
-## Aller plus loin
+## 5. Garder le seuil de rentabilité séparé
 
-Utilise le prompt Atlas dedie pour calculer et analyser tes unit economics :
+**Clients nécessaires = charges fixes mensuelles / (revenu mensuel par client - coût variable mensuel par client)**, arrondi à l'entier supérieur.
 
-[Unit Economics Calculator](/prompts/unit_economics_calculator)
+Les charges fixes ne doivent pas être déjà déduites dans le dénominateur. Il faut donc distinguer coûts fixes et variables, plutôt que réutiliser automatiquement la marge calculée plus haut. Si la contribution par client est nulle ou négative, aucun seuil fini ne résulte de cette formule. Si les charges manquent, laisse le résultat non calculable.
 
----
+## Le prochain contrôle utile
 
-*Ce guide fait partie de la serie Business Builder sur Atlas.*
+Refais les calculs avec un churn ou un coût d'acquisition moins favorable, sans présenter ce scénario comme une prévision. Par exemple, passer de 4 % à 2,5 % de churn multiplie la LTV par 1,6 à marge constante, pas par deux. Identifie ensuite la donnée manquante qui changerait le plus ta décision.
+
+Pour approfondir la distinction entre chiffre d'affaires et marge dans la récupération du CAC : [SaaS Metrics Framework, Updata Partners](https://updata.com/white-paper/saas-metrics-framework/). Les seuils proposés dans ce cadre ne constituent pas des verdicts universels.
+
+[Calculer avec le prompt Unit Economics Calculator](/prompts/unit_economics_calculator)

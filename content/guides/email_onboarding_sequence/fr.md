@@ -1,53 +1,53 @@
 ---
-title: Concevoir une sequence d'onboarding email
-description: Le guide pour creer des emails d'onboarding qui activent tes utilisateurs et reduisent le churn.
+title: Concevoir une séquence d'onboarding email
+description: Le guide pour créer des emails d'onboarding qui activent tes utilisateurs et réduisent le churn.
 ---
 
-# Concevoir une sequence d'onboarding email
+# Concevoir une séquence d'onboarding email
 
-Ton utilisateur vient de s'inscrire. Les 7 prochains jours vont determiner s'il reste ou s'il disparait. L'onboarding email est ton meilleur levier pour transformer un inscrit en utilisateur actif.
+Ton utilisateur vient de s’inscrire. Tes premiers messages peuvent l’aider à réaliser une action utile, au lieu de lui présenter toutes les fonctionnalités à la fois.
 
-90% des utilisateurs qui ne reviennent pas dans les 3 premiers jours ne reviendront jamais.
+Le moment où un utilisateur comprend la valeur du produit dépend de son usage. Observe tes propres cohortes avant de fixer une fenêtre d’activation.
 
 ## Pourquoi c'est important
 
-L'onboarding email n'est pas du marketing -- c'est du produit. Chaque email doit rapprocher l'utilisateur de son "moment aha", le moment ou il comprend la valeur de ton produit. Sans cette sequence, tu laisses au hasard la premiere impression.
+L'onboarding email n'est pas du marketing -- c'est du produit. Chaque email doit rapprocher l'utilisateur de son "moment aha", le moment où il comprend la valeur de ton produit. Sans cette séquence, tu laisses au hasard la première impression.
 
 ## Le processus
 
-### Etape 1 -- Identifier le moment aha
+### Étape 1 -- Identifier le moment aha
 
-Quelle est l'action qui fait que l'utilisateur comprend la valeur de ton produit ? Pour Slack, c'est envoyer 2000 messages en equipe. Pour Dropbox, c'est sauvegarder un fichier. Identifie cette action et construis ta sequence autour.
+Quelle action permet à l’utilisateur d’obtenir un premier résultat utile ? Pour un outil de facturation, cela pourrait être l’envoi d’une facture réelle. C’est une hypothèse à vérifier dans tes données et tes échanges clients, pas une preuve de rétention à elle seule.
 
-### Etape 2 -- Structurer la sequence en 5 emails
+### Étape 2 -- Partir d’un exemple de séquence
 
-- Email 1 (J+0) : Bienvenue + premiere action a faire (une seule)
+- Email 1 (J+0) : Bienvenue + première action à faire (une seule)
 - Email 2 (J+1) : Guide vers le moment aha
-- Email 3 (J+3) : Preuve sociale + astuce avancee
-- Email 4 (J+5) : Lever une objection frequente
-- Email 5 (J+7) : Recapitulatif de valeur + CTA clair (upgrade, invitation, feedback)
+- Email 3 (J+3) : Preuve sociale + astuce avancée
+- Email 4 (J+5) : Lever une objection fréquente
+- Email 5 (J+7) : Récapitulatif de valeur + CTA clair (upgrade, invitation, feedback)
 
-### Etape 3 -- Ecrire chaque email
+### Étape 3 -- Écrire chaque email
 
-Un email d'onboarding efficace : un objet clair (pas de teasing), une idee par email, un seul CTA, maximum 150 mots. Le ton est direct et utile, pas commercial.
+Un email d'onboarding efficace : un objet clair (pas de teasing), une idée par email, un seul CTA, maximum 150 mots. Le ton est direct et utile, pas commercial.
 
-### Etape 4 -- Mesurer et iterer
+### Étape 4 -- Mesurer et itérer
 
-Suis les taux d'ouverture, de clic et surtout le taux d'activation (l'utilisateur a-t-il fait l'action cle ?). L'email qui a le plus faible taux de clic est celui a reecrire en premier.
+Suis les clics et surtout les actions utiles accomplies dans le produit. Compare les parcours et les blocages : un faible taux de clic ne suffit pas à prouver qu’un email est mauvais, ni une corrélation à établir qu’il cause l’activation.
 
 ## Erreurs courantes
 
-- Trop d'emails trop vite : 5 emails en 7 jours est un maximum, pas un minimum
-- Pas de CTA clair : chaque email doit demander une action precise
-- Ton trop commercial : l'onboarding est la pour aider, pas pour vendre
-- Sequence identique pour tous : si possible, segmente par profil ou par comportement
+- Trop d’emails trop vite : la séquence ci-dessus est un point de départ, pas une cadence universelle. Adapte-la aux actions déjà accomplies, aux préférences et aux désinscriptions
+- Pas de CTA clair : chaque email doit demander une action précise
+- Ton trop commercial : l'onboarding est là pour aider, pas pour vendre
+- Séquence identique pour tous : si possible, segmente par profil ou par comportement
 
 ## Aller plus loin
 
-Utilise le prompt Atlas dedie pour generer une sequence d'onboarding email complete :
+Utilise le prompt Atlas dédié pour générer une séquence d'onboarding email complète :
 
 [Email Onboarding Sequence](/prompts/email_onboarding_sequence)
 
 ---
 
-*Ce guide fait partie de la serie Marketing Builder sur Atlas.*
+*Ce guide fait partie de la série Marketing Builder sur Atlas.*

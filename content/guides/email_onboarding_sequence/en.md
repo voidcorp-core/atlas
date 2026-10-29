@@ -5,19 +5,19 @@ description: The guide to creating onboarding emails that activate users and red
 
 # Designing an Email Onboarding Sequence
 
-You spent money and effort to get a new signup. Then you send a welcome email that says "Thanks for signing up!" and nothing else for a week. By then, they have forgotten you exist. The onboarding sequence is where most products silently lose their users.
+A new user has signed up. Your first messages can help them achieve something useful instead of presenting every feature at once.
 
 ## Why It Matters
 
-The first 7 days after signup determine whether a user becomes a customer or a ghost. Users who experience the core value of your product in the first session are 3-5x more likely to retain. Your onboarding emails are not newsletters -- they are activation engines. Each email should move the user one step closer to the "aha moment."
+When users first experience value depends on the product and their situation. Observe your own cohorts before choosing an activation window. Each email should help with one useful action, rather than rely on a universal retention claim.
 
 ## The Process
 
 ### Step 1: Define the Activation Milestone
 
-What is the one action that separates users who retain from users who churn? For Slack, it is sending 2,000 messages. For Dropbox, it is uploading a file. Find your equivalent. Your entire sequence drives toward this action.
+Which action gives the user a first useful result? For an invoicing product, that might be sending a real invoice. Treat this as a hypothesis to check against your data and customer conversations, not proof of retention by itself.
 
-### Step 2: Build the 5-Email Framework
+### Step 2: Start with an Example Sequence
 
 - **Email 1 (Day 0)**: Welcome + one clear next step. Not a feature tour -- a single action.
 - **Email 2 (Day 1)**: Address the most common friction point. "Most users get stuck here -- here is how to get past it."
@@ -31,11 +31,11 @@ Not every user should get every email. If a user has already completed the activ
 
 ### Step 4: Measure and Optimize
 
-Track open rates, click rates, and most importantly, the correlation between email engagement and activation. If Email 3 has a 40% open rate but no impact on activation, the content is interesting but not effective. Rewrite it to drive action.
+Track clicks and, more importantly, useful actions completed in the product. Compare journeys and obstacles: a low click rate does not prove an email is bad, and correlation alone does not establish that it caused activation.
 
 ## Common Mistakes
 
-**Sending too many emails too fast** -- 5 emails in 7 days is the maximum. More than that and you train users to ignore you.
+**Sending too many emails too fast** -- the sequence above is a starting point, not a universal cadence. Adapt it to completed actions, preferences and unsubscribes.
 
 **Feature-dumping instead of guiding** -- each email should have one goal, not a tour of everything your product does.
 
