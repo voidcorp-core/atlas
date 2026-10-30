@@ -2,6 +2,19 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
+## [3.1.0](https://github.com/voidcorp-core/atlas/compare/v3.0.1...v3.1.0) (2026-10-30)
+
+
+### Ajouté
+
+* **registre:** integrate Ethos sources as unpublished drafts ([#46](https://github.com/voidcorp-core/atlas/issues/46)) ([f7d7a83](https://github.com/voidcorp-core/atlas/commit/f7d7a83a5d3add5ce22b40c681393ffeedd2ce19))
+
+
+### Corrigé
+
+* **content:** preserve ethos claims and their factual premises ([7ff71da](https://github.com/voidcorp-core/atlas/commit/7ff71daed54ca58295ae2bbe2f085529851a0d3a))
+* **registry:** withhold draft ethos from public catalogs ([ab4e886](https://github.com/voidcorp-core/atlas/commit/ab4e8861a1c4a39e7593b2aab4b415139bf963a2))
+
 ## [3.0.1](https://github.com/voidcorp-core/atlas/compare/v3.0.0...v3.0.1) (2026-10-29)
 
 
