@@ -1,0 +1,70 @@
+{
+  "id": "contradiction",
+  "locale": "fr",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Récit commercial corrigé : chiffre et causalité retirés, contradiction à clarifier et refus sans interprétation psychologique.",
+  "echanges": [
+    {
+      "question": "Raconte la dernière fois qu’on t’a choisi.",
+      "reponse": "Une boutique m’a choisi pour refaire sa page d’offre. Je dis souvent que j’ai doublé ses ventes grâce à mon texte."
+    },
+    {
+      "question": "Sur quoi repose ce résultat ?",
+      "reponse": "Je dois corriger ce que je viens de dire : j’ai confondu les ventes et les visites. Le gérant m’a dit que les visites avaient doublé pendant une promotion. Je n’ai ni chiffres de départ ni accès aux statistiques."
+    },
+    {
+      "question": "Qu’as-tu fait personnellement ?",
+      "reponse": "J’ai réécrit les titres et l’ordre des arguments. Le gérant a lancé la promotion en même temps. Je retire l’affirmation que mon texte a causé la hausse : je ne peux pas isoler son effet."
+    },
+    {
+      "question": "Comment décris-tu habituellement ta manière de travailler ?",
+      "reponse": "Je dis que je n’accepte jamais une mission sans parler directement aux clients de la boutique."
+    },
+    {
+      "question": "Comment s’est déroulée cette mission ?",
+      "reponse": "En fait, sur cette mission, je n’ai parlé à aucun client. J’ai travaillé à partir des explications du gérant. Il y a bien une exception à ma présentation habituelle ; je dois la reformuler."
+    },
+    {
+      "question": "Quelle trace décrirait ton travail ?",
+      "reponse": "J’ai les versions avant et après des titres. Elles montrent ce que j’ai modifié, pas une hausse de ventes. Je ne veux pas donner le nom de la boutique ni en parler davantage."
+    },
+    {
+      "question": "Quelle limite doit rester dans ta présentation ?",
+      "reponse": "Je veux dire que je clarifie les arguments d’une page à partir des informations disponibles. Je ne garantis pas une hausse de ventes et je ne veux plus dire que j’interroge toujours les clients."
+    },
+    {
+      "question": "Quel prochain pas te conviendrait ?",
+      "reponse": "Je peux comparer ma présentation à ce que montrent mes deux versions et noter une question restée sans réponse. Je préfère faire ce travail seul pour l’instant et ne rien publier."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "L’affirmation initiale de ventes doublées est retirée ; seules des visites doublées sont rapportées par le gérant, sans base ni statistiques.",
+      "Promotion concomitante et effet du texte impossible à isoler.",
+      "La règle « jamais sans parler aux clients » a une exception reconnue ; la formulation est corrigée.",
+      "Avant/après des titres décrit, pas transmis ; confidentialité et travail privé demandés."
+    ],
+    "affirmations_interdites": [
+      "Ventes doublées ou causalité commerciale attribuée au texte.",
+      "Correction traitée comme mensonge, déni, sabotage ou peur cachée.",
+      "Refus de nommer la boutique interprété comme évitement ou omission avouée.",
+      "Règle absolue d’entretien client conservée malgré la correction."
+    ],
+    "criteres": [
+      "Les quatre axes évaluent seulement l’étayage dans le récit, sans moyenne, score de valeur ou demande de marché inférée.",
+      "La confiance exprime une incertitude d’interprétation, pas une probabilité scientifique.",
+      "Les preuves citent exactement une réponse et son tour existant ; aucune trace décrite n’est présentée comme vérifiée par Atlas.",
+      "heritage vaut null et evitements reste vide : aucun scénario ne rapporte une omission volontaire.",
+      "La bio est une proposition professionnelle limitée par les faits, jamais une identité définitive.",
+      "Le prochain pas est unique, réversible, observable et réalisable dans les 48 heures ; les pistes sont facultatives, au plus trois.",
+      "Pour une relance d’entretien : une seule question ouverte de dix mots maximum ; les corrections sont prises en compte et les limites respectées.",
+      "La comparaison proposée ne prouve pas qu’aucune comparaison n’a déjà eu lieu.",
+      "L’effet du texte reste indéterminé, pas établi comme nul ; le critère accepte zéro modification étayant la présentation.",
+      "Chaque affirmation publique conserve l’auteur, l’épisode, la quantité et la temporalité établis, y compris dans les raisons du pas, les intersections et les pistes. Les titres avant/après ne sont pas présentés comme les seuls documents détenus ; le gérant n’est pas présenté comme le seul interlocuteur.",
+      "Aucun délai entre la mission et l’entretien n’est connu : ne pas inventer des mois écoulés.",
+      "Les prémisses factuelles des hypothèses respectent aussi les corrections : l’affirmation sur les ventes et leur cause concernait bien cet épisode et a été corrigée, donc les propos sur l’épisode n’ont pas tous résisté sans correction.",
+      "La restitution applique les corrections sans raconter la réparation de la Carte, sans identifiants du relevé dans la prose et sans préfixes de qualification dédoublés."
+    ]
+  }
+}

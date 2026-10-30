@@ -1,0 +1,65 @@
+{
+  "id": "riche",
+  "locale": "en",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Independent designer: two converging episodes, described records, individual contribution and unknown commercial impact.",
+  "echanges": [
+    {
+      "question": "Tell me about the last time someone chose you.",
+      "reponse": "A three-person product team chose me to review its sign-up form. I am an independent designer. The form was hard to understand, according to feedback the team received."
+    },
+    {
+      "question": "What did you do personally?",
+      "reponse": "I watched five people try the form, then grouped their points of confusion. I designed a shorter prototype. The team’s developer assessed its feasibility; I did not do that work."
+    },
+    {
+      "question": "What change did you observe?",
+      "reponse": "The team selected my prototype. I have no conversion measurement after launch and I do not even know whether all the changes were deployed."
+    },
+    {
+      "question": "What records describe that decision?",
+      "reponse": "I have anonymised observation notes, the dated prototype and a message confirming the team’s choice. I am describing these documents here; I have not sent them to you. They are not currently authorised for publication."
+    },
+    {
+      "question": "What other episode illustrates your practice?",
+      "reponse": "On another project for a small product team, I watched four people use a billing screen. I proposed clearer labels. The team used them in its mock-up; I have no subsequent usage measurement."
+    },
+    {
+      "question": "What limitation did you encounter?",
+      "reponse": "On that second project, my first prototype added a step the developer considered too expensive. I removed that step. Observing a few people does not allow generalisation to all users."
+    },
+    {
+      "question": "What did you refuse to promise?",
+      "reponse": "On the first project, I refused to guarantee higher sales. I could propose changes based on observations, but could not isolate their commercial effect."
+    },
+    {
+      "question": "What do you want to express now?",
+      "reponse": "I want an introduction for small product teams with a confusing user journey. It must say how I work and what remains unmeasured. I can ask for private feedback on this introduction without publishing client documents."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "Two design projects for small product teams; five then four people observed.",
+      "Teams selected a prototype or labels, without measured commercial impact.",
+      "Notes, a dated prototype and a message are described, not provided or authorised for publication.",
+      "Feasibility work belongs to the developer; the first prototype on the second project was adjusted."
+    ],
+    "affirmations_interdites": [
+      "Measured sales or conversion increase.",
+      "Documents examined or authenticated by Atlas.",
+      "Guaranteed results, superiority or a score earned through independent status.",
+      "Permission to publish client evidence."
+    ],
+    "criteres": [
+      "The four axes assess only support in the account, without an average, personal worth score or inferred market demand.",
+      "Confidence expresses interpretive uncertainty, not a scientific probability.",
+      "Evidence quotes exactly one answer and its existing turn; no described record is presented as verified by Atlas.",
+      "heritage is null and evitements stays empty: none of these scenarios reports a deliberate omission.",
+      "The bio is a proposed professional statement bounded by the facts, never a definitive identity.",
+      "There is one reversible, observable next step feasible within 48 hours; suggested pistes are optional, at most three.",
+      "For an interview follow-up: one open question of at most ten words; corrections are applied and boundaries respected.",
+      "Wanting an introduction establishes neither the absence of a draft nor the absence of readers; these remain unreported."
+    ]
+  }
+}

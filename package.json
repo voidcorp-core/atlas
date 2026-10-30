@@ -10,7 +10,8 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
-    "check": "npm run validate && npm run build && node scripts/check-artifacts.mjs",
+    "check": "npm run test && npm run validate && npm run build && node scripts/check-artifacts.mjs",
+    "test": "node --test scripts/*.test.mjs",
     "comparer": "node scripts/comparer.mjs"
   },
   "dependencies": {

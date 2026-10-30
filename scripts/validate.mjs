@@ -50,6 +50,7 @@ const promptTextSchema = z.object({
 })
 
 const guideMetaSchema = z.object({
+  draft: z.boolean().optional(),
   id: z.string().min(1),
   slug,
   category: z.string().min(1),
@@ -65,6 +66,7 @@ const guideTextSchema = z.object({
 })
 
 const cartographieMetaSchema = z.object({
+  draft: z.boolean().optional(),
   id: slug,
   category: z.enum(CATEGORIES),
   difficulty: z.enum(DIFFICULTIES),
@@ -97,6 +99,10 @@ const cartographieTextSchema = z.object({
   garanties: z.array(z.string().min(1).max(90)).min(2).max(4),
   description: z.string().min(1),
   attribution: z.string().min(1).optional(),
+  echelle: z.object({
+    libelle: z.string().trim().min(1),
+    description: z.string().trim().min(1),
+  }).optional(),
   axes: z.record(slug, z.string().min(1)),
 })
 
@@ -239,6 +245,9 @@ for (const { meta, documents, directory } of cartographies) {
       }
     }
   }
+
+  const scales = LOCALES.map((locale) => documents.entretien[locale].data.echelle !== undefined)
+  if (scales[0] !== scales[1]) fail(where, 'échelle présente dans une seule locale')
 
   const [fr, en] = LOCALES.map((locale) => tokensIn(documents.entretien[locale].body).join(','))
   if (fr !== en) fail(where, `jetons divergents entre locales - FR: ${fr} | EN: ${en}`)

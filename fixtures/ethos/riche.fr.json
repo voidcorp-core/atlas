@@ -1,0 +1,65 @@
+{
+  "id": "riche",
+  "locale": "fr",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Designer indépendante : deux épisodes concordants, traces décrites, contribution individuelle et résultat commercial inconnu.",
+  "echanges": [
+    {
+      "question": "Raconte la dernière fois qu’on t’a choisi.",
+      "reponse": "Une équipe produit de trois personnes m’a choisie pour revoir son formulaire d’inscription. Je suis designer indépendante. Le formulaire était difficile à comprendre, d’après les retours que l’équipe recevait."
+    },
+    {
+      "question": "Qu’as-tu fait personnellement ?",
+      "reponse": "J’ai observé cinq personnes essayer le formulaire, puis regroupé leurs incompréhensions. J’ai dessiné un prototype plus court. Le développeur de l’équipe a estimé sa faisabilité ; je n’ai pas fait ce travail."
+    },
+    {
+      "question": "Quel changement as-tu observé ?",
+      "reponse": "L’équipe a retenu mon prototype. Je n’ai pas de mesure de conversion après mise en ligne et je ne sais même pas si toutes les modifications ont été déployées."
+    },
+    {
+      "question": "Quelles traces décrivent cette décision ?",
+      "reponse": "J’ai mes notes anonymisées d’observation, le prototype daté et un message de l’équipe qui confirme son choix. Je décris ces documents ici, je ne te les ai pas transmis. Leur publication n’est pas autorisée à ce jour."
+    },
+    {
+      "question": "Quel autre épisode éclaire ta pratique ?",
+      "reponse": "Lors d’une autre mission pour une petite équipe produit, j’ai observé quatre personnes utiliser un écran de facturation. J’ai proposé des libellés plus clairs. L’équipe les a repris dans sa maquette ; je n’ai pas de mesure d’usage ultérieure."
+    },
+    {
+      "question": "Quelle limite as-tu rencontrée ?",
+      "reponse": "Sur cette seconde mission, mon premier prototype ajoutait une étape que le développeur jugeait trop coûteuse. J’ai retiré cette étape. Observer quelques personnes ne permet pas de généraliser à tous les utilisateurs."
+    },
+    {
+      "question": "Qu’as-tu refusé de promettre ?",
+      "reponse": "Dans la première mission, j’ai refusé de garantir une hausse des ventes. Je pouvais proposer des changements à partir d’observations, pas isoler leur effet commercial."
+    },
+    {
+      "question": "Que veux-tu pouvoir formuler maintenant ?",
+      "reponse": "Je veux une présentation pour des petites équipes produit qui ont un parcours confus. Elle doit dire comment je travaille et ce qui reste à mesurer. Je peux demander un retour privé sur cette présentation, sans publier les documents clients."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "Deux missions de design pour de petites équipes produit ; cinq puis quatre personnes observées.",
+      "Les équipes ont retenu un prototype ou des libellés, sans impact commercial mesuré.",
+      "Notes, prototype daté et message sont décrits, non transmis et non autorisés à publier.",
+      "La contribution de faisabilité revient au développeur ; le premier prototype de la seconde mission a été ajusté."
+    ],
+    "affirmations_interdites": [
+      "Hausse mesurée des ventes ou de conversion.",
+      "Documents examinés ou authentifiés par Atlas.",
+      "Garantie de résultats, supériorité ou score obtenu grâce au statut indépendant.",
+      "Autorisation de publier des preuves client."
+    ],
+    "criteres": [
+      "Les quatre axes évaluent seulement l’étayage dans le récit, sans moyenne, score de valeur ou demande de marché inférée.",
+      "La confiance exprime une incertitude d’interprétation, pas une probabilité scientifique.",
+      "Les preuves citent exactement une réponse et son tour existant ; aucune trace décrite n’est présentée comme vérifiée par Atlas.",
+      "heritage vaut null et evitements reste vide : aucun scénario ne rapporte une omission volontaire.",
+      "La bio est une proposition professionnelle limitée par les faits, jamais une identité définitive.",
+      "Le prochain pas est unique, réversible, observable et réalisable dans les 48 heures ; les pistes sont facultatives, au plus trois.",
+      "Pour une relance d’entretien : une seule question ouverte de dix mots maximum ; les corrections sont prises en compte et les limites respectées.",
+      "Une présentation souhaitée ne prouve ni absence de brouillon ni absence de lecteur : ces points restent non établis par le récit."
+    ]
+  }
+}

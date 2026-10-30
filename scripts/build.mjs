@@ -20,9 +20,9 @@ const write = (file, data) => {
 }
 
 const prompts = loadPrompts().sort(byOrder)
-const guides = loadGuides().sort(byOrder)
+const guides = loadGuides().filter(({ meta }) => meta.draft !== true).sort(byOrder)
 const tools = loadTools().sort((a, b) => a.order - b.order)
-const cartographies = loadCartographies().sort(byOrder)
+const cartographies = loadCartographies().filter(({ meta }) => meta.draft !== true).sort(byOrder)
 
 for (const locale of LOCALES) {
   const promptEntries = prompts.map(({ meta, locales }) => ({
@@ -79,6 +79,9 @@ for (const locale of LOCALES) {
     garanties: documents.entretien[locale].data.garanties,
     description: documents.entretien[locale].data.description,
     attribution: documents.entretien[locale].data.attribution ?? null,
+    ...(documents.entretien[locale].data.echelle === undefined
+      ? {}
+      : { echelle: documents.entretien[locale].data.echelle }),
     category: meta.category,
     difficulty: meta.difficulty,
     labels: meta.labels,

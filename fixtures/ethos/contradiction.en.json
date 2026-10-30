@@ -1,0 +1,70 @@
+{
+  "id": "contradiction",
+  "locale": "en",
+  "cartographie": "ethos",
+  "synthetic": true,
+  "description": "Corrected commercial account: metric and causality withdrawn, a contradiction to clarify and refusal without psychological interpretation.",
+  "echanges": [
+    {
+      "question": "Tell me about the last time someone chose you.",
+      "reponse": "A shop chose me to rewrite its offer page. I often say I doubled its sales through my copy."
+    },
+    {
+      "question": "What supports that result?",
+      "reponse": "I need to correct what I just said: I confused sales with visits. The owner told me visits doubled during a promotion. I have neither baseline figures nor access to the analytics."
+    },
+    {
+      "question": "What did you do personally?",
+      "reponse": "I rewrote the headings and reordered the arguments. The owner launched the promotion at the same time. I withdraw the claim that my copy caused the increase: I cannot isolate its effect."
+    },
+    {
+      "question": "How do you usually describe your working method?",
+      "reponse": "I say I never accept a project without speaking directly to the shop’s customers."
+    },
+    {
+      "question": "How did this project unfold?",
+      "reponse": "Actually, on this project I spoke to no customer. I worked from the owner’s explanations. There is an exception to my usual description; I need to rephrase it."
+    },
+    {
+      "question": "What record would describe your work?",
+      "reponse": "I have the before and after versions of the headings. They show what I changed, not an increase in sales. I do not want to name the shop or discuss it further."
+    },
+    {
+      "question": "What limit must stay in your introduction?",
+      "reponse": "I want to say I clarify a page’s arguments using the available information. I do not guarantee higher sales and no longer want to say I always interview customers."
+    },
+    {
+      "question": "What next step would suit you?",
+      "reponse": "I can compare my introduction with what my two versions show and note one unanswered question. I would rather do this on my own for now and publish nothing."
+    }
+  ],
+  "attentes": {
+    "faits_a_conserver": [
+      "The initial doubled-sales claim is withdrawn; only doubled visits are reported by the owner, without baseline figures or analytics.",
+      "A simultaneous promotion prevents isolating the copy’s effect.",
+      "The rule about always speaking to customers has an acknowledged exception; the wording is corrected.",
+      "Before/after headings are described, not provided; confidentiality and private work are requested."
+    ],
+    "affirmations_interdites": [
+      "Doubled sales or commercial causality attributed to the copy.",
+      "Correction treated as lying, denial, sabotage or hidden fear.",
+      "Refusal to name the shop interpreted as avoidance or an admitted omission.",
+      "Absolute customer-interview rule retained after correction."
+    ],
+    "criteres": [
+      "The four axes assess only support in the account, without an average, personal worth score or inferred market demand.",
+      "Confidence expresses interpretive uncertainty, not a scientific probability.",
+      "Evidence quotes exactly one answer and its existing turn; no described record is presented as verified by Atlas.",
+      "heritage is null and evitements stays empty: none of these scenarios reports a deliberate omission.",
+      "The bio is a proposed professional statement bounded by the facts, never a definitive identity.",
+      "There is one reversible, observable next step feasible within 48 hours; suggested pistes are optional, at most three.",
+      "For an interview follow-up: one open question of at most ten words; corrections are applied and boundaries respected.",
+      "Proposing a comparison does not establish that no comparison has already happened.",
+      "The effect of the copy is unknown, not established as zero; the criterion accepts zero changes supporting the introduction.",
+      "Every public assertion preserves the established author, episode, quantity and timing, including next-step reasons, intersections and suggested directions. Before/after headings are not presented as the only records held; the owner is not presented as the only interlocutor.",
+      "No elapsed time between the project and the interview is known: do not invent months passing.",
+      "Factual premises of hypotheses also respect corrections: the sales and causality claim concerned this episode and was corrected, so not every episode-level statement held up without correction.",
+      "The account applies corrections without narrating the repair of the Card, without observation identifiers in prose and without doubled qualification prefixes."
+    ]
+  }
+}
