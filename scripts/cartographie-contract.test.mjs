@@ -75,3 +75,84 @@ test('rejects a scale explained in only one language', (t) => {
   assert.equal(validation.status, 1, validation.stderr)
   assert.match(validation.stderr, /[ée]chelle|echelle/)
 })
+
+function setDraft(directory, kind, id, draft) {
+  const path = join(directory, 'content', kind, id, 'meta.json')
+  const meta = JSON.parse(readFileSync(path, 'utf8'))
+  if (draft === undefined) delete meta.draft
+  else meta.draft = draft
+  writeFileSync(path, `${JSON.stringify(meta, null, 2)}\n`)
+}
+
+const pending = [
+  ['cartographies', 'ethos'],
+  ['guides', 'utiliser-sa-carte-ethos'],
+]
+const catalog = (directory, kind, locale) =>
+  JSON.parse(readFileSync(join(directory, `${kind}.${locale}.json`), 'utf8'))
+
+test('keeps Ethos and its guide out of both public locales without changing other entries', (t) => {
+  const directory = fixture(t)
+  const build = run(directory, 'build.mjs')
+  assert.equal(build.status, 0, build.stderr)
+  const published = new Map()
+  for (const [kind, id] of pending) {
+    for (const locale of ['fr', 'en']) {
+      const entries = catalog(directory, kind, locale)
+      assert.equal(entries.some((entry) => entry.id === id), false, `${kind}.${locale}: ${id}`)
+      published.set(`${kind}.${locale}`, entries)
+    }
+    setDraft(directory, kind, id, false)
+  }
+  assert.equal(run(directory, 'build.mjs').status, 0)
+  for (const [kind, id] of pending) {
+    for (const locale of ['fr', 'en']) {
+      const entries = catalog(directory, kind, locale)
+      assert.equal(entries.some((entry) => entry.id === id), true)
+      assert.deepEqual(entries.filter((entry) => entry.id !== id), published.get(`${kind}.${locale}`))
+    }
+  }
+  assert.ok(cartographie(directory, 'fr'))
+  assert.ok(cartographie(directory, 'en'))
+})
+
+test('exports full draft sources for evaluation only after undrafting an isolated copy', (t) => {
+  const directory = fixture(t)
+  for (const [kind, id] of pending) setDraft(directory, kind, id, undefined)
+  assert.equal(run(directory, 'validate.mjs').status, 0)
+  assert.equal(run(directory, 'build.mjs').status, 0)
+  for (const locale of ['fr', 'en']) {
+    const ethos = catalog(directory, 'cartographies', locale).find(({ id }) => id === 'ethos')
+    assert.equal(ethos.axes.length, 4)
+    for (const role of ['entretien', 'carte', 'dossier']) assert.ok(ethos[role].length > 200)
+    assert.equal(Object.hasOwn(ethos, 'draft'), false)
+    const guide = catalog(directory, 'guides', locale).find(({ id }) => id === 'utiliser-sa-carte-ethos')
+    assert.ok(guide.content.includes(`/cartographies/ethos`))
+    assert.equal(Object.hasOwn(guide, 'draft'), false)
+  }
+})
+
+for (const [kind, id] of pending) {
+  for (const invalid of ['true', null]) {
+    test(`rejects ${kind} draft metadata with ${JSON.stringify(invalid)}`, (t) => {
+      const directory = fixture(t)
+      setDraft(directory, kind, id, invalid)
+      const validation = run(directory, 'validate.mjs')
+      assert.equal(validation.status, 1, validation.stderr)
+      assert.match(validation.stderr, /draft/)
+    })
+  }
+
+  test(`validates ${kind} draft source even though it is not published`, (t) => {
+    const directory = fixture(t)
+    setDraft(directory, kind, id, true)
+    const file = kind === 'cartographies' ? 'carte.en.md' : 'en.md'
+    const field = kind === 'cartographies' ? 'titre' : 'title'
+    const path = join(directory, 'content', kind, id, file)
+    const content = readFileSync(path, 'utf8').replace(new RegExp(`^${field}: .+$`, 'm'), `${field}: ''`)
+    writeFileSync(path, content)
+    const validation = run(directory, 'validate.mjs')
+    assert.equal(validation.status, 1, validation.stderr)
+    assert.ok(validation.stderr.includes(field))
+  })
+}

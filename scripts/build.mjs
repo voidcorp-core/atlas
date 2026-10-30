@@ -20,9 +20,9 @@ const write = (file, data) => {
 }
 
 const prompts = loadPrompts().sort(byOrder)
-const guides = loadGuides().sort(byOrder)
+const guides = loadGuides().filter(({ meta }) => meta.draft !== true).sort(byOrder)
 const tools = loadTools().sort((a, b) => a.order - b.order)
-const cartographies = loadCartographies().sort(byOrder)
+const cartographies = loadCartographies().filter(({ meta }) => meta.draft !== true).sort(byOrder)
 
 for (const locale of LOCALES) {
   const promptEntries = prompts.map(({ meta, locales }) => ({

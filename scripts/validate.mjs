@@ -50,6 +50,7 @@ const promptTextSchema = z.object({
 })
 
 const guideMetaSchema = z.object({
+  draft: z.boolean().optional(),
   id: z.string().min(1),
   slug,
   category: z.string().min(1),
@@ -65,6 +66,7 @@ const guideTextSchema = z.object({
 })
 
 const cartographieMetaSchema = z.object({
+  draft: z.boolean().optional(),
   id: slug,
   category: z.enum(CATEGORIES),
   difficulty: z.enum(DIFFICULTIES),

@@ -73,6 +73,29 @@ content/
 This separation is deliberate: what is structural exists once and therefore cannot diverge between
 languages, while what is written exists in both.
 
+## Draft Cartographies and guides
+
+Cartographie and guide metadata accept an optional boolean `draft`. Set it to
+`true` while the content is not approved for publication. The build excludes
+that entry from both localized public catalogs; `false` or an absent field
+preserves normal publication. The flag itself is not exported.
+
+Draft sources still undergo every metadata, content and locale check. Source
+loaders and the comparison harness can still read them. A draft is not private:
+its files remain visible in this public repository. Mark an associated guide
+as draft too when it links to an unpublished Cartographie.
+
+Ethos and `utiliser-sa-carte-ethos` remain drafts because the observed outputs
+failed fidelity and exact-citation review. Integrating their sources does not
+approve their publication. Removing `draft` is a separate reviewed content change,
+followed by regeneration, a registry release and adoption by the site.
+
+For an authorized local evaluation of a draft, use an isolated temporary copy of
+`scripts/`, `content/` and `fixtures/`, with access to the installed dependencies.
+Remove `draft` only in that copy, validate it, then build its catalogs. Point the
+site evaluation runner at that copy; never commit its generated catalogs or use
+them for deployment. This preparation makes no model call and grants no API budget.
+
 ## Adding a prompt
 
 1. Create `content/prompts/<id>/` - the identifier is lowercase, words separated by `_` or `-`,
